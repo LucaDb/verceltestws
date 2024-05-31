@@ -13,7 +13,7 @@
     "components": [
       {
         "schema": "intro-1",
-        "colorScheme": "light",
+        "colorScheme": "dark",
         "topSpace": true,
         "innerSpace": false,
         "title": "About",
