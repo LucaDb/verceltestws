@@ -1,0 +1,39 @@
+[
+  {
+    "category": "project_index",
+    "template": "project_index",
+    "isDefault": true,
+    "title": "Progetti",
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "components": [
+      {
+        "anchor": {
+          "hash": "selezionati",
+          "title": "Selezionati"
+        },
+        "schema": "project-selection"
+      },
+      {
+        "anchor": {
+          "hash": "tipo-di-servizio",
+          "title": "Tipo di servizio"
+        },
+        "schema": "project-tag"
+      },
+      {
+        "anchor": {
+          "hash": "tipo-di-cliente",
+          "title": "Tipo di cliente"
+        },
+        "schema": "project-type"
+      },
+      {
+        "anchor": {
+          "hash": "tutti-i-clienti",
+          "title": "Tutti i clienti"
+        },
+        "schema": "project-alphabetically"
+      }
+    ]
+  }
+]

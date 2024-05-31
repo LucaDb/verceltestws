@@ -1,0 +1,12 @@
+[
+  {
+    "category": "homepage",
+    "template": "generic",
+    "title": "Tests",
+    "components": [
+      {
+        "schema": "tests"
+      }
+    ]
+  }
+]

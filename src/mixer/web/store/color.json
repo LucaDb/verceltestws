@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pervinca",
+    "className": "blue-violet"
+  },
+  {
+    "title": "Viola",
+    "className": "purple"
+  },
+  {
+    "title": "Rosso",
+    "className": "red"
+  },
+  {
+    "title": "Arancio",
+    "className": "orange"
+  },
+  {
+    "title": "Giallo",
+    "className": "yellow"
+  },
+  {
+    "title": "Verde",
+    "className": "green"
+  },
+  {
+    "title": "Ciano",
+    "className": "cyan"
+  },
+  {
+    "title": "Nero",
+    "className": "black"
+  }
+]

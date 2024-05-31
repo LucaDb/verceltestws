@@ -1,0 +1,57 @@
+name: ws-bom-build-publish-docker-images
+on:
+  push:
+    branches: [ "main" ]
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+  pull_request:
+    branches: [ "main" ]
+permissions:
+  id-token: write
+  contents: read
+env:
+  APP_NAME: ${{ secrets.APP_NAME }}
+  REGISTRY: ${{ secrets.AZURE_CONTAINER_REGISTRY_USER }}.azurecr.io
+  DOCKER_IMAGE_TAG: ${{ github.head_ref || github.ref_name || 'latest' }}
+  AZURE_CONTAINER_REGISTRY_USER: ${{ secrets.AZURE_CONTAINER_REGISTRY_USER }}
+  AZURE_CONTAINER_REGISTRY_PWD: ${{ secrets.AZURE_CONTAINER_REGISTRY_PWD }}
+jobs:
+  build:
+    name: Build & push docker image
+    runs-on: ubuntu-latest
+    env:
+      REPOSITORY: ${{ github.repository }}
+    steps:
+      - name: Checkout
+        id: checkout-repo
+        uses: actions/checkout@v3
+      - name: Fix docker image tag name
+        run: echo "DOCKER_IMAGE_TAG=${DOCKER_IMAGE_TAG/\#/}" >> $GITHUB_ENV
+      - name: Azure Container Registry login
+        id: login-ACR
+        uses: docker/login-action@v2
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ env.AZURE_CONTAINER_REGISTRY_USER }}
+          password: ${{ env.AZURE_CONTAINER_REGISTRY_PWD }}
+      - name: Create .env.production files
+        id: create-az-env-files
+        if: ${{ !env.ACT }}
+        run: |
+          echo "${{ vars.BOWL_ENV_PRODUCTION }}" > ./src/bowl/payload/.env.azure
+          sort -u -t '=' -k 1,1 ./src/bowl/payload/.env.azure ./src/bowl/payload/.env | grep -v '^$\|^\s*\#' > ./src/bowl/payload/.env
+          rm ./src/bowl/payload/.env.azure
+          echo "${{ vars.MIXER_ENV_PRODUCTION }}" > ./src/mixer/web/.env.azure
+          sort -u -t '=' -k 1,1 ./src/mixer/web/.env.azure ./src/mixer/web/.env.production | grep -v '^$\|^\s*\#' > ./src/mixer/web/.env.production
+          rm ./src/mixer/web/.env.azure
+      - name: Build app images
+        id: build-push-app-images
+        if: (true)
+        run: |
+          NODE_VERSION=$(cat .nvmrc | sed 's/[^0-9,.]*//g')
+          docker build --progress=plain -f ./src/bowl/Dockerfile --build-arg node_version=$NODE_VERSION -t  ${{ env.REGISTRY }}/${{ env.APP_NAME }}-bowl:${{ env.DOCKER_IMAGE_TAG }}  .
+          docker push ${{ env.REGISTRY }}/${{ env.APP_NAME }}-bowl:${{ env.DOCKER_IMAGE_TAG }}
+          docker build --progress=plain -f ./src/oven/Dockerfile -t ${{ env.REGISTRY }}/${{ env.APP_NAME }}-oven:${{ env.DOCKER_IMAGE_TAG }}  ./src/oven
+          docker push ${{ env.REGISTRY }}/${{ env.APP_NAME }}-oven:${{ env.DOCKER_IMAGE_TAG }}
+          docker build --progress=plain -f ./src/mixer/Dockerfile --build-arg node_version=$NODE_VERSION -t ${{ env.REGISTRY }}/${{ env.APP_NAME }}-mixer:${{ env.DOCKER_IMAGE_TAG }} .
+          docker push ${{ env.REGISTRY }}/${{ env.APP_NAME }}-mixer:${{ env.DOCKER_IMAGE_TAG }}

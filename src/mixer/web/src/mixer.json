@@ -1,0 +1,29 @@
+{
+  "collections": [
+    "client",
+    "company"
+  ],
+  "mocks": [],
+  "pages": [
+    "contact",
+    "homepage",
+    "job",
+    "notfound",
+    "product_category",
+    "product_detail",
+    "project_index",
+    "project_detail",
+    "about",
+    "cultura_index",
+    "cultura_detail",
+    "industry_index",
+    "industry_detail",
+    "newsletter",
+    "generic",
+    "location_index",
+    "location_detail",
+    "legal_document",
+    "inverstor_relations_index",
+    "inverstor_relations_detail"
+  ]
+}

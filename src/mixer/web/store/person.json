@@ -1,0 +1,89 @@
+[
+  {
+    "firstName": "Mario",
+    "lastName": "Rossi",
+    "fullName": "Mario Rossi",
+    "role": {
+      "title": "Catalano Head Chief"
+    }
+  },
+  {
+    "firstName": "Francesca",
+    "lastName": "Ondedei",
+    "fullName": "Francesca Ondedei",
+    "role": {
+      "title": "SEO specialist"
+    }
+  },
+  {
+    "firstName": "Rosario",
+    "lastName": "Toscano",
+    "fullName": "Rosario Toscano",
+    "role": {
+      "title": "CRO Specialist"
+    },
+    "company": {
+      "title": "moca",
+      "colorData": {
+        "title": "Rosso",
+        "className": "rosso"
+      }
+    }
+  },
+  {
+    "firstName": "SEISNET",
+    "lastName": "-",
+    "fullName": "SEISNET -",
+    "role": {
+      "title": "Collaboratori esterni"
+    }
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Pierobon",
+    "fullName": "Luca Pierobon",
+    "role": {
+      "title": "DTC"
+    }
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Omiccioli",
+    "fullName": "Lorenzo Omiccioli",
+    "role": {
+      "title": "DTC"
+    }
+  },
+  {
+    "firstName": "Valerio",
+    "lastName": "Aversa",
+    "fullName": "Valerio Aversa",
+    "role": {
+      "title": "DTC"
+    }
+  },
+  {
+    "firstName": "Federica",
+    "lastName": "Marchesin",
+    "fullName": "Federica Marchesin",
+    "role": {
+      "title": "SEO specialist"
+    }
+  },
+  {
+    "firstName": "Giacomo",
+    "lastName": "Tacchi",
+    "fullName": "Giacomo Tacchi",
+    "role": {
+      "title": "Analyst specialist"
+    }
+  },
+  {
+    "firstName": "Stefano",
+    "lastName": "Corinaldesi",
+    "fullName": "Stefano Corinaldesi",
+    "role": {
+      "title": "Designer & Art Director"
+    }
+  }
+]

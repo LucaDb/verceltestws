@@ -1,0 +1,87 @@
+[
+  {
+    "id": "homepage",
+    "slug": "",
+    "title": "Home"
+  },
+  {
+    "id": "product_category_strategy",
+    "title": "Strategy",
+    "category": "homepage"
+  },
+  {
+    "id": "product_category_branding",
+    "title": "Branding",
+    "category": "homepage"
+  },
+  {
+    "id": "product_category_demand_generation",
+    "title": "Demand Generation",
+    "category": "homepage"
+  },
+  {
+    "id": "product_category_commerce",
+    "title": "Commerce",
+    "category": "homepage"
+  },
+  {
+    "id": "product_category_technology",
+    "title": "Technology",
+    "category": "homepage"
+  },
+  {
+    "id": "contact",
+    "title": "Contattaci",
+    "category": "homepage"
+  },
+  {
+    "id": "job",
+    "title": "Lavora con noi",
+    "category": "homepage"
+  },
+  {
+    "id": "project_index",
+    "title": "Progetti",
+    "category": "homepage"
+  },
+  {
+    "id": "about",
+    "title": "About",
+    "category": "homepage"
+  },
+  {
+    "id": "cultura_index",
+    "title": "Cultura",
+    "category": "homepage"
+  },
+  {
+    "id": "industry_index",
+    "title": "Industries",
+    "category": "homepage"
+  },
+  {
+    "id": "newsletter",
+    "title": "Newsletter",
+    "category": "homepage"
+  },
+  {
+    "id": "location_index",
+    "title": "Sedi",
+    "category": "homepage"
+  },
+  {
+    "id": "privacy_policy",
+    "title": "Informativa Privacy",
+    "category": "homepage"
+  },
+  {
+    "id": "cookie_policy",
+    "title": "Cookie Policy",
+    "category": "homepage"
+  },
+  {
+    "id": "inverstor_relations_index",
+    "title": "Inverstor Relations",
+    "category": "homepage"
+  }
+]

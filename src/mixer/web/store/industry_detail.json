@@ -1,0 +1,414 @@
+[
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Design & Architecture",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/1/1920/200",
+      "alt": "Design & Architecture"
+    },
+    "colorScheme": "dark",
+    "gallery": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/1/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/2/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      }
+    ],
+    "components": [
+      {
+        "anchor": {
+          "hash": "design-and-architecture",
+          "title": "Design & Architecture"
+        },
+        "schema": "intro-1",
+        "colorScheme": "dark",
+        "title": "Design & Architecture",
+        "titleSize": "md",
+        "layout": "breadcrumb",
+        "description": "<p>Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.</p>"
+      },
+      {
+        "anchor": {
+          "hash": "design-and-architecture",
+          "title": "Design & Architecture"
+        },
+        "schema": "media-youtube",
+        "topSpace": true,
+        "innerSpace": false,
+        "colorScheme": "dark",
+        "title": "Design & Architecture",
+        "src": "https://www.youtube.com/embed/75KucS9J3Yk?si=78owxHgkwAgS8Yje"
+      },
+      {
+        "schema": "media-loop",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": true
+      },
+      {
+        "anchor": {
+          "hash": "catena-del-valore",
+          "title": "Catena del valore"
+        },
+        "schema": "text-combo-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": false,
+        "swap": false,
+        "dots": true,
+        "eyelet": "CATENA DEL VALORE",
+        "title": "Description Dolor Sit Amet Lorem",
+        "abstract": "Nel settore, la catena del valore vede i designer e gli architetti creare idee e i progetti e, allo stesso tempo, influenzare le scelte di acquisto dei consumatori; i produttori materializzare queste visioni; i rivenditori portare i prodotti al consumatore finale. E, infine, i clienti stessi, motore del mercato con le loro preferenze, dubbi, risposte.",
+        "description": "Description Dolor Sit Amet Lorem",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/600/600",
+          "alt": "Catena del valore"
+        }
+      },
+      {
+        "schema": "detail-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Perchè attivare un progetto CRO.",
+        "list": {
+          "items": [
+            {
+              "title": "Conosciamo l’importanza del racconto di marca: come le narrazioni di ciascuna impresa avvolgono il prodotto e lo posizionano nell’immaginario del mercato."
+            },
+            {
+              "title": "Conosciamo le complessità del prodotto: infinite combinazioni creative, vastità da raccontare e, allo stesso tempo, da rendere comprensibili e acquistabili."
+            },
+            {
+              "title": "Conosciamo il mercato: un’offerta sempre più competitiva, di qualità elevata, che coniuga tecnologie sofisticate, alte performance e una continua ricerca estetica."
+            },
+            {
+              "title": "Conosciamo la tecnologia: efficienze e affidabilità da ottenere attraverso integrazioni sempre più articolate con i mondi degli ERP, dei PIM, dei DAM, dei CRM."
+            }
+          ]
+        }
+      },
+      {
+        "schema": "text-columns-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": true,
+        "layout": "left",
+        "eyelet": "CATENA DEL VALORE",
+        "title": "Description Dolor Sit Amet Lorem",
+        "abstract": "Nel settore, la catena del valore vede i designer e gli architetti creare idee e i progetti e, allo stesso tempo, influenzare le scelte di acquisto dei consumatori; i produttori materializzare queste visioni; i rivenditori portare i prodotti al consumatore finale. E, infine, i clienti stessi, motore del mercato con le loro preferenze, dubbi, risposte.",
+        "description": "Description Dolor Sit Amet Lorem",
+        "items": [
+          {
+            "counter": 25,
+            "title": "Anni di esperienza",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          },
+          {
+            "counter": 30,
+            "title": "Premi vinti",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          },
+          {
+            "counter": 150,
+            "title": "Integrazioni realizzate",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          }
+        ]
+      },
+      {
+        "schema": "highlights-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Un mondo che possiamo dire di conoscere bene.",
+        "abstract": "Abbiamo maturato negli anni esperienza e sensibilità e in cui abbiamo portato risultati a chi si è fidato di noi, in un costante e virtuoso scambio di culture e competenze.",
+        "clients": [
+          {
+            "id": 1,
+            "title": "Balsen"
+          },
+          {
+            "id": 2,
+            "title": "Dorelan"
+          },
+          {
+            "id": 3,
+            "title": "Fileni"
+          },
+          {
+            "id": 4,
+            "title": "Luisa Spagnoli"
+          },
+          {
+            "id": 5,
+            "title": "Giovanni Raspini"
+          },
+          {
+            "id": 6,
+            "title": "Landi Renzo"
+          },
+          {
+            "id": 7,
+            "title": "Lorem"
+          },
+          {
+            "id": 8,
+            "title": "Ipsum"
+          }
+        ]
+      },
+      {
+        "schema": "gallery-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Cosa abbiamo realizzato insieme.",
+        "description": "Description Dolor Sit Amet Lorem"
+      },
+      {
+        "schema": "blog-more-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Cultura",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Civic, Public & No-Profit",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/2/1920/200",
+      "alt": "Civic, Public & No-Profit"
+    },
+    "gallery": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/5/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/6/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/7/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/8/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      }
+    ]
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Consumer & Healthcare",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/3/1920/200",
+      "alt": "Consumer & Healthcare"
+    },
+    "gallery": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/1/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/2/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      }
+    ]
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Fashion & Beauty",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/4/1920/200",
+      "alt": "Consumer & Healthcare"
+    },
+    "gallery": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/10/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/11/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/12/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/13/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      }
+    ]
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Food & Drink",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/5/1920/200",
+      "alt": "Food & Drink"
+    },
+    "gallery": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/8/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/13/1920/1080",
+          "alt": "Design & Architecture"
+        }
+      }
+    ]
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Hospitality",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/6/1920/200",
+      "alt": "Hospitality"
+    }
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Sport & Leisure",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/7/1920/200",
+      "alt": "Sport & Leisure"
+    }
+  },
+  {
+    "category": "industry_index",
+    "template": "industry_detail",
+    "title": "Technology & Services",
+    "abstract": "Un mondo con una filiera di attori composita e interconnessa, guidato dalla ricerca sulle tecnologie, dall’innovazione sui materiali, dalle tendenze estetiche, dagli stili di vita dei consumatori, dalla loro crescente sensibilità verso soluzioni sostenibili.",
+    "description": "<p>Nostra egestas ut iaculis aliquet vitae. Fermentum iaculis conubia netus, quis posuere finibus tempus ex.</p><p>Maximus nullam hendrerit scelerisque sollicitudin dolor nibh suspendisse elit. Platea integer adipiscing ultricies massa etiam curabitur netus. Vestibulum elementum non, fermentum turpis aptent laoreet sociosqu faucibus.</p><p>Tincidunt lobortis vitae convallis senectus consectetur gravida blandit nibh. Netus porta molestie, praesent cubilia quisque fringilla? Laoreet nisl condimentum vivamus varius porttitor euismod fermentum varius.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/8/1920/200",
+      "alt": "Technology & Services"
+    }
+  }
+]

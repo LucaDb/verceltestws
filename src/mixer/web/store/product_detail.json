@@ -1,0 +1,689 @@
+[
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "Strategy & Consulting",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/strategy-consulting.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "A.I. Based Consumer Insights",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/ai-based-insight.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "Full Funnel Adv Campaign",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/adv-storytelling.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "Lead Generation",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/strategy-consulting.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "SEO Strategy",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/ai-based-insight.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "Inbound Marketing",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/adv-storytelling.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "CRO: Conversion Rate Optimization",
+    "abstract": "Servizio che aiuta ad aumentare le vendite, i lead generati e la soddisfazione dei clienti a parità di visite al tuo sito.",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "https://websolute.azurewebsites.net/oven/media/A.I. Based Consumer Insights.json",
+      "type": "json"
+    },
+    "components": [
+      {
+        "schema": "cover-1",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "CRO: Conversion Rate Optimization.",
+        "abstract": "Servizio che aiuta ad aumentare le vendite, i lead generati e la soddisfazione dei clienti a parità di visite al tuo sito.",
+        "media": {
+          "src": "https://websolute.azurewebsites.net/oven/media/A.I. Based Consumer Insights.json",
+          "type": "json"
+        },
+        "navs": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "product_category",
+              "value": 3
+            }
+          }
+        ]
+      },
+      {
+        "schema": "text-tabs-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": true,
+        "title": "I benefici.",
+        "abstract": "Attraverso la CRO rendiamo l’esperienza degli utenti sul tuo sito chiara, piacevole ed efficace, grazie al lavoro di un team di specialisti di dati e del comportamento umano online.",
+        "items": [
+          {
+            "title": "Più valore ad ogni singola visita.",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+            "colorData": {
+              "title": "Viola",
+              "className": "purple"
+            }
+          },
+          {
+            "title": "Conoscenza profonda dei tuoi clienti.",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+            "colorData": {
+              "title": "Arancio",
+              "className": "orange"
+            }
+          },
+          {
+            "title": "Minori costi di acquisizione clienti.",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+            "colorData": {
+              "title": "Rosso",
+              "className": "red"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "folder-1",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": false,
+        "title": "Come lo facciamo",
+        "abstract": "Attraverso la CRO rendiamo l’esperienza degli utenti sul tuo sito chiara, piacevole ed efficace, grazie al lavoro di un team di specialisti di dati e del comportamento umano online.",
+        "components": [
+          {
+            "schema": "folder-pie",
+            "colorData": {
+              "title": "Viola",
+              "className": "purple"
+            },
+            "title": "Il servizio",
+            "abstract": "Integriamo il progetto coerentemente con la ditigral strategy, a beneficio di tutte le attività di digital marketing. Per questo lavoriamo al tuo progetto CRO nel contesto dell'intero processo di Demand Generation.",
+            "items": [
+              {
+                "title": "Social Media",
+                "top": "81%",
+                "left": "17%"
+              }
+            ]
+          },
+          {
+            "schema": "folder-accordion",
+            "colorData": {
+              "title": "Rosso",
+              "className": "red"
+            },
+            "title": "Il metodo",
+            "abstract": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem commodi unde nam et, ducimus inventore labore repellendus modi quo doloremque quis non nihil doloribus, omnis quas, laboriosam quos expedita obcaecati.",
+            "items": [
+              {
+                "title": "01. Ascoltiamo",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                "colorData": {
+                  "title": "Nero",
+                  "className": "black"
+                }
+              },
+              {
+                "title": "02. Interpretiamo",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                "colorData": {
+                  "title": "Nero",
+                  "className": "black"
+                }
+              },
+              {
+                "title": "03. Facciamo",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                "colorData": {
+                  "title": "Nero",
+                  "className": "black"
+                }
+              }
+            ]
+          },
+          {
+            "schema": "folder-hive",
+            "colorData": {
+              "title": "Arancio",
+              "className": "orange"
+            },
+            "title": "Il team",
+            "abstract": "Ogni progetto ha una squadra di specialisti che ha a cuore migliorare il valore che crea il tuo sito per tutti. Siamo convinti di avere uno dei team più completi e preparati in ambito CRO in Italia. ",
+            "items": [
+              {
+                "title": "Digital Strategist",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Project Manager",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Designers",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Developers",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Analysts",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Designers",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Developers",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              },
+              {
+                "title": "Analysts",
+                "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis."
+              }
+            ]
+          },
+          {
+            "schema": "folder-media",
+            "colorData": {
+              "title": "Giallo",
+              "className": "yellow"
+            },
+            "title": "Strumenti & Certificazioni",
+            "abstract": "Ogni progetto ha una squadra di specialisti che ha a cuore migliorare il valore che crea il tuo sito per tutti. Siamo convinti di avere uno dei team più completi e preparati in ambito CRO in Italia. ",
+            "categories": [
+              {
+                "title": "2 elementi",
+                "items": [
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  }
+                ]
+              },
+              {
+                "title": "3 elementi",
+                "items": [
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-2.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  }
+                ]
+              },
+              {
+                "title": "4 elementi",
+                "items": [
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-2.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-3.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  }
+                ]
+              },
+              {
+                "title": "5 elementi",
+                "items": [
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-2.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-3.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  }
+                ]
+              },
+              {
+                "title": "6 elementi",
+                "items": [
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-2.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-3.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-0.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  },
+                  {
+                    "media": {
+                      "src": "/media-tabs/media-tab-1.jpg",
+                      "type": "image",
+                      "alt": "lorem"
+                    },
+                    "href": "https://www.nngroup.com/ux-certification/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schema": "spotlight-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "layout": "grid",
+        "title": "Chi ci lavora",
+        "description": "Per fornire i servizi di Conversion Rate Optimization (CRO) ci avvaliamo anche del contributo di un delle agenzie specializzate del gruppo: moca.",
+        "navs": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "about",
+              "value": 1
+            }
+          }
+        ],
+        "companies": [
+          {
+            "id": "6603fb33794e36dedcef2ed7",
+            "title": "websolute",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EDigital Agencies Group\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "65e9ebbd569d22ca960c5143",
+              "alt": "websolute-logo",
+              "filename": "websolute-logo.svg",
+              "mimeType": "image/svg+xml",
+              "filesize": 6186,
+              "width": 181,
+              "height": 31,
+              "sizes": {
+                "card": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                },
+                "feature": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                }
+              },
+              "createdAt": "2024-03-07T16:30:53.870Z",
+              "updatedAt": "2024-03-07T16:30:53.870Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/websolute-logo.svg"
+            },
+            "order": 10,
+            "navs": [
+              {
+                "type": "page",
+                "page": {
+                  "value": "65e9a6acf569b01a5dbef1a2",
+                  "relationTo": "about"
+                },
+                "target": "_blank",
+                "items": [],
+                "id": "6603fb07eb8e1e6c29a080c3",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T10:55:47.135Z",
+            "updatedAt": "2024-04-18T15:13:14.404Z",
+            "colorData": {
+              "id": "661e40af6f4abc50c0cfa93e",
+              "title": "Ciano",
+              "createdAt": "2024-04-16T09:11:11.363Z",
+              "updatedAt": "2024-04-16T09:11:11.363Z",
+              "className": "cyan"
+            }
+          },
+          {
+            "id": "6604078b27a557dda39e5705",
+            "title": "moca",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EPerformance Marketing\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "65e9ec3c569d22ca960c5178",
+              "alt": "moca-logo",
+              "filename": "moca-logo.svg",
+              "mimeType": "image/svg+xml",
+              "filesize": 3794,
+              "width": 130,
+              "height": 31,
+              "sizes": {
+                "card": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                },
+                "feature": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                }
+              },
+              "createdAt": "2024-03-07T16:33:00.606Z",
+              "updatedAt": "2024-03-07T16:33:00.606Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/moca-logo.svg"
+            },
+            "order": 30,
+            "navs": [
+              {
+                "type": "link",
+                "title": "moca",
+                "href": "https://mocainteractive.com/",
+                "target": "_blank",
+                "items": [],
+                "id": "66040772488741fa6d04f76c",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:48:27.353Z",
+            "updatedAt": "2024-04-18T15:13:22.753Z",
+            "colorData": {
+              "id": "661e5941f72e8b5267457d5e",
+              "title": "Rosso",
+              "createdAt": "2024-04-16T10:56:01.902Z",
+              "updatedAt": "2024-04-16T10:56:01.902Z",
+              "className": "red"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "gallery-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa abbiamo realizzato insieme.",
+        "description": "Description Dolor Sit Amet Lorem"
+      },
+      {
+        "schema": "detail-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "bottomBorder": true,
+        "swap": false,
+        "title": "Perchè attivare un progetto CRO.",
+        "list": {
+          "items": [
+            {
+              "title": "Il tuo sito è sempre ottimizzato, monitorato e in grado di migliorare costantemente le performance."
+            },
+            {
+              "title": "Tutte le altre attività di marketing che portano visite al tuo sito diventano più efficaci."
+            },
+            {
+              "title": "Hai sempre accesso a un team di esperti pronti a darti insights utili per migliorare la comunicazione e le attività di marketing."
+            }
+          ]
+        }
+      },
+      {
+        "schema": "detail-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "bottomBorder": true,
+        "swap": true,
+        "title": "Un servizio che evita problemi e costi nascosti.",
+        "list": {
+          "items": [
+            {
+              "title": "Scopri dei colli di bottiglia che frenano o complicano la vita dei tuoi clienti potenziali."
+            },
+            {
+              "title": "Minimizzi malumori e cattive esperienze dei clienti con il tuo sito, evitando passaparola negativi."
+            },
+            {
+              "title": "Ti assicuri che il tuo sito sia sempre perfettamente funzionante, evitando prolungati periodi in cui anche solo uno step del funnel si blocca per problemi tecnici."
+            }
+          ]
+        }
+      },
+      {
+        "schema": "blog-more-1",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Cultura",
+        "cta": true,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "E-mail Marketing Automation",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/adv-storytelling.json",
+      "type": "json"
+    }
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_detail",
+    "title": "Social Media",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "meta": {
+      "title": "Product",
+      "description": "Description Dolor Sit Amet Lorem",
+      "keywords": "keyword product",
+      "robots": "all"
+    },
+    "media": {
+      "src": "/assets/animations/ai-based-insight.json",
+      "type": "json"
+    }
+  }
+]

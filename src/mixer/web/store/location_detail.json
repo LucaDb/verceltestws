@@ -1,0 +1,1158 @@
+[
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Pesaro",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/81/960/540",
+      "alt": "Pesaro"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "title": "Pesaro",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "galleria",
+          "title": "Galleria"
+        },
+        "schema": "media-slider",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "In use",
+        "items": [
+          {
+            "title": "Masseria Trullo di Pezza",
+            "media": {
+              "src": "https://picsum.photos/id/4/1920/1024",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "title": "Architect's Office",
+            "media": {
+              "src": "https://picsum.photos/id/6/800/1024",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "title": "House in Paris",
+            "media": {
+              "src": "https://picsum.photos/id/5/1920/1024",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "title": "Villa Gea",
+            "media": {
+              "src": "https://picsum.photos/id/7/1920/1024",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "title": "Malesherbes",
+            "media": {
+              "src": "https://picsum.photos/id/8/800/1024",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "title": "The Social House",
+            "media": {
+              "src": "https://picsum.photos/id/9/800/1024",
+              "type": "image",
+              "alt": "lreom"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "callout",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Pesaro",
+        "abstract": "<p>Strada della Campanara 15, 61122 Pesaro PU</p><p> Tel. 0721 411112 - Fax. 0721 430007</p>",
+        "description": "Description Dolor Sit Amet Lorem",
+        "navs": [
+          {
+            "type": "link",
+            "title": "Vedi nella mappa",
+            "href": "https://maps.app.goo.gl/EmjffvRBLxU6EJ7SA",
+            "target": "_blank"
+          }
+        ],
+        "banner": {
+          "title": "Aiutaci a migliorare, la tua opinione è importante",
+          "description": "Lascia una recensione lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "colorData": {
+            "title": "Ciano",
+            "className": "cyan"
+          },
+          "navs": [
+            {
+              "type": "link",
+              "title": "Vedi nella mappa",
+              "href": "https://www.google.com/maps/place/Websolute+spa/@43.9026741,12.8117842,17z/data=!4m22!1m13!4m12!1m4!2m2!1d13.2360794!2d43.5229521!4e1!1m6!1m2!1s0x132d1c02c593e2d9:0x2aa0224e59039d8c!2swebsolute+pesaro+mappa!2m2!1d12.8143591!2d43.9026703!3m7!1s0x132d1c02c593e2d9:0x2aa0224e59039d8c!8m2!3d43.9026703!4d12.8143591!9m1!1b1!16s%2Fg%2F1v90f07n?entry=ttu",
+              "target": "_blank"
+            }
+          ]
+        }
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation.",
+        "items": [
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "Strategy & Consulting",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-01.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "A.I. Based Consumer Insights",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-02.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "Full Funnel Adv Campaign",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-03.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "Lead Generation",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-04.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "SEO Strategy",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-05.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "Inbound Marketing",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-06.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "CRO: Conversion Rate Optimization",
+            "abstract": "Servizio che aiuta ad aumentare le vendite, i lead generati e la soddisfazione dei clienti a parità di visite al tuo sito.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-07.svg",
+              "type": "image",
+              "alt": "lorem"
+            },
+            "components": [
+              {
+                "schema": "cover-1",
+                "colorScheme": "light",
+                "topSpace": false,
+                "innerSpace": true,
+                "title": "CRO: Conversion Rate Optimization.",
+                "abstract": "Servizio che aiuta ad aumentare le vendite, i lead generati e la soddisfazione dei clienti a parità di visite al tuo sito.",
+                "media": {
+                  "src": "/carousel/carousel-07.svg",
+                  "type": "image",
+                  "alt": "lorem"
+                },
+                "navs": [
+                  {
+                    "type": "page",
+                    "page": {
+                      "relationTo": "product_category",
+                      "value": 3
+                    }
+                  }
+                ]
+              },
+              {
+                "schema": "text-tabs-1",
+                "colorScheme": "dark",
+                "topSpace": true,
+                "innerSpace": true,
+                "title": "I benefici.",
+                "abstract": "Attraverso la CRO rendiamo l’esperienza degli utenti sul tuo sito chiara, piacevole ed efficace, grazie al lavoro di un team di specialisti di dati e del comportamento umano online.",
+                "items": [
+                  {
+                    "title": "Più valore ad ogni singola visita.",
+                    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                    "colorData": {
+                      "title": "Viola",
+                      "className": "purple"
+                    }
+                  },
+                  {
+                    "title": "Conoscenza profonda dei tuoi clienti.",
+                    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                    "colorData": {
+                      "title": "Arancio",
+                      "className": "orange"
+                    }
+                  },
+                  {
+                    "title": "Minori costi di acquisizione clienti.",
+                    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                    "colorData": {
+                      "title": "Rosso",
+                      "className": "red"
+                    }
+                  }
+                ]
+              },
+              {
+                "schema": "folder-1",
+                "colorScheme": "light",
+                "topSpace": false,
+                "innerSpace": false,
+                "title": "Come lo facciamo",
+                "abstract": "Attraverso la CRO rendiamo l’esperienza degli utenti sul tuo sito chiara, piacevole ed efficace, grazie al lavoro di un team di specialisti di dati e del comportamento umano online.",
+                "components": [
+                  {
+                    "schema": "folder-pie",
+                    "colorData": {
+                      "title": "Viola",
+                      "className": "purple"
+                    },
+                    "title": "Il servizio",
+                    "abstract": "Integriamo il progetto coerentemente con la ditigral strategy, a beneficio di tutte le attività di digital marketing. Per questo lavoriamo al tuo progetto CRO nel contesto dell'intero processo di Demand Generation.",
+                    "items": [
+                      {
+                        "title": "Social Media",
+                        "top": "81%",
+                        "left": "17%"
+                      }
+                    ]
+                  },
+                  {
+                    "schema": "folder-accordion",
+                    "colorData": {
+                      "title": "Rosso",
+                      "className": "red"
+                    },
+                    "title": "Il metodo",
+                    "abstract": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem commodi unde nam et, ducimus inventore labore repellendus modi quo doloremque quis non nihil doloribus, omnis quas, laboriosam quos expedita obcaecati.",
+                    "items": [
+                      {
+                        "title": "01. Ascoltiamo",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Rosso",
+                          "className": "red"
+                        }
+                      },
+                      {
+                        "title": "02. Interpretiamo",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Rosso",
+                          "className": "red"
+                        }
+                      },
+                      {
+                        "title": "03. Facciamo",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Rosso",
+                          "className": "red"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "schema": "folder-hive",
+                    "colorData": {
+                      "title": "Arancio",
+                      "className": "orange"
+                    },
+                    "title": "Il team",
+                    "abstract": "Ogni progetto ha una squadra di specialisti che ha a cuore migliorare il valore che crea il tuo sito per tutti. Siamo convinti di avere uno dei team più completi e preparati in ambito CRO in Italia. ",
+                    "items": [
+                      {
+                        "title": "Digital Strategist",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Ciano",
+                          "className": "cyan"
+                        }
+                      },
+                      {
+                        "title": "Project Manager",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Viola",
+                          "className": "purple"
+                        }
+                      },
+                      {
+                        "title": "Designers",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Viola",
+                          "className": "purple"
+                        }
+                      },
+                      {
+                        "title": "Developers",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Rosso",
+                          "className": "red"
+                        }
+                      },
+                      {
+                        "title": "Analysts",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Verde",
+                          "className": "verde"
+                        }
+                      },
+                      {
+                        "title": "Designers",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Verde",
+                          "className": "verde"
+                        }
+                      },
+                      {
+                        "title": "Developers",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Rosso",
+                          "className": "red"
+                        }
+                      },
+                      {
+                        "title": "Analysts",
+                        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, uenim ad minim veniam, quis.",
+                        "colorData": {
+                          "title": "Verde",
+                          "className": "verde"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "schema": "folder-media",
+                    "colorData": {
+                      "title": "Giallo",
+                      "className": "giallo"
+                    },
+                    "title": "Strumenti & Certificazioni",
+                    "abstract": "Ogni progetto ha una squadra di specialisti che ha a cuore migliorare il valore che crea il tuo sito per tutti. Siamo convinti di avere uno dei team più completi e preparati in ambito CRO in Italia. ",
+                    "categories": [
+                      {
+                        "title": "2 elementi",
+                        "items": [
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "3 elementi",
+                        "items": [
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-2.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "4 elementi",
+                        "items": [
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-2.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-3.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "5 elementi",
+                        "items": [
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-2.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-3.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "6 elementi",
+                        "items": [
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-2.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-3.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-0.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          },
+                          {
+                            "media": {
+                              "src": "/media-tabs/media-tab-1.jpg",
+                              "type": "image",
+                              "alt": "lorem"
+                            },
+                            "href": "https://www.nngroup.com/ux-certification/"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "schema": "spotlight-1",
+                "colorScheme": "light",
+                "topSpace": true,
+                "innerSpace": false,
+                "layout": "grid",
+                "title": "Chi ci lavora",
+                "description": "Per fornire i servizi di Conversion Rate Optimization (CRO) ci avvaliamo anche del contributo di un delle agenzie specializzate del gruppo: moca.",
+                "navs": [
+                  {
+                    "type": "page",
+                    "page": {
+                      "relationTo": "about",
+                      "value": 1
+                    }
+                  }
+                ],
+                "items": [
+                  "websolute",
+                  "moca"
+                ]
+              },
+              {
+                "schema": "gallery-1",
+                "colorScheme": "dark",
+                "topSpace": true,
+                "innerSpace": false,
+                "title": "Cosa abbiamo realizzato insieme.",
+                "description": "Description Dolor Sit Amet Lorem"
+              },
+              {
+                "schema": "detail-1",
+                "colorScheme": "light",
+                "topSpace": true,
+                "innerSpace": false,
+                "bottomBorder": true,
+                "swap": false,
+                "title": "Perchè attivare un progetto CRO.",
+                "list": {
+                  "items": [
+                    "Il tuo sito è sempre ottimizzato, monitorato e in grado di migliorare costantemente le performance.",
+                    "Tutte le altre attività di marketing che portano visite al tuo sito diventano più efficaci.",
+                    "Hai sempre accesso a un team di esperti pronti a darti insights utili per migliorare la comunicazione e le attività di marketing."
+                  ]
+                }
+              },
+              {
+                "schema": "detail-1",
+                "colorScheme": "light",
+                "topSpace": true,
+                "innerSpace": false,
+                "bottomBorder": true,
+                "swap": true,
+                "title": "Un servizio che evita problemi e costi nascosti.",
+                "list": {
+                  "items": [
+                    "Scopri dei colli di bottiglia che frenano o complicano la vita dei tuoi clienti potenziali.",
+                    "Minimizzi malumori e cattive esperienze dei clienti con il tuo sito, evitando passaparola negativi.",
+                    "Ti assicuri che il tuo sito sia sempre perfettamente funzionante, evitando prolungati periodi in cui anche solo uno step del funnel si blocca per problemi tecnici."
+                  ]
+                }
+              },
+              {
+                "schema": "blog-more-1",
+                "colorScheme": "light",
+                "topSpace": false,
+                "innerSpace": true,
+                "title": "Cultura",
+                "cta": true,
+                "quantity": 3
+              }
+            ]
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "E-mail Marketing Automation",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-08.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "category": "product_category_demand_generation",
+            "template": "product_detail",
+            "title": "Social Media",
+            "abstract": "Abstract Dolor Sit Amet Lorem",
+            "description": "Description Dolor Sit Amet Lorem",
+            "meta": {
+              "title": "Product",
+              "description": "Description Dolor Sit Amet Lorem",
+              "keywords": "keyword product",
+              "robots": "all"
+            },
+            "media": {
+              "src": "/carousel/carousel-09.svg",
+              "type": "image",
+              "alt": "lorem"
+            }
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Milano",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/82/960/540",
+      "alt": "Milano"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Milano",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Treviso",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/83/960/540",
+      "alt": "Treviso"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Treviso",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Pisa",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/70/960/540",
+      "alt": "Pisa"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Pisa",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Ancona",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/34/960/540",
+      "alt": "Ancona"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Ancona",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Salerno",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/41/960/540",
+      "alt": "Salerno"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Salerno",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Padova",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/960/540",
+      "alt": "Padova"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Padova",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Ascoli Piceno",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/11/960/540",
+      "alt": "Ascoli Piceno"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Ascoli Piceno",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "category": "location_index",
+    "template": "location_detail",
+    "title": "Shangai",
+    "abstract": "Eros mollis risus sit venenatis ante faucibus.",
+    "description": "<p>Himenaeos montes nisl elit gravida hendrerit. Venenatis pretium class aptent tincidunt tincidunt sagittis ac commodo.</p><p>Feugiat turpis enim viverra pharetra dolor. Quam penatibus in habitasse integer, quisque porta vulputate vehicula? Senectus euismod nunc pellentesque nisl imperdiet dapibus.</p><p>Finibus egestas arcu vitae cubilia vestibulum. Metus consequat nullam suspendisse et netus donec finibus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/79/960/540",
+      "alt": "Shangai"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Shangai",
+        "titleSize": "md",
+        "description": "Il mare da un lato, le colline del Montefeltro dall’altro. È questa la vista che accompagna all’ingresso del nostro headquarter più di 80 professionisti del settore digitale. Il cuore della nostra agenzia è un ambiente creativo a contatto con la natura dove una cultura della condivisione rafforza la nostra community e stimola le nostre idee. Un team specializzato in consulenza strategica guida le aziende nel percorso di trasformazione digitale mentre project manager, web designer e web developer sviluppano soluzioni digital first in linea con le esigenze dei nostri clienti. La nostra E-commerce Unit gestisce logistica, store, transazioni per business in tutto il mondo."
+      },
+      {
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "anchor": {
+          "hash": "altre-sedi",
+          "title": "Le altre sedi"
+        },
+        "schema": "location-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Le altre sedi",
+        "description": "Description Dolor Sit Amet Lorem",
+        "cta": false,
+        "quantity": 9
+      }
+    ]
+  }
+]

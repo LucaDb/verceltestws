@@ -1,0 +1,135 @@
+[
+  {
+    "id": "homepage",
+    "name": "Homepage",
+    "collections": [
+      "homepage"
+    ]
+  },
+  {
+    "id": "product",
+    "name": "Product",
+    "collections": [
+      "product"
+    ]
+  },
+  {
+    "id": "product_category",
+    "name": "ProductCategory",
+    "collections": [
+      "product_category"
+    ]
+  },
+  {
+    "id": "contact",
+    "name": "Contattaci",
+    "collections": [
+      "contact"
+    ]
+  },
+  {
+    "id": "job",
+    "name": "Lavora con noi",
+    "collections": [
+      "job"
+    ]
+  },
+  {
+    "id": "project_index",
+    "name": "Progetti",
+    "collections": [
+      "project_index"
+    ]
+  },
+  {
+    "id": "project_detail",
+    "name": "Progetto",
+    "collections": [
+      "project_detail"
+    ]
+  },
+  {
+    "id": "about",
+    "name": "About",
+    "collections": [
+      "about"
+    ]
+  },
+  {
+    "id": "cultura_index",
+    "name": "CulturaIndex",
+    "collections": [
+      "cultura_index"
+    ]
+  },
+  {
+    "id": "cultura_detail",
+    "name": "CulturaDetail",
+    "collections": [
+      "cultura_detail"
+    ]
+  },
+  {
+    "id": "industry_index",
+    "name": "IndustryIndex",
+    "collections": [
+      "industry_index"
+    ]
+  },
+  {
+    "id": "industry_detail",
+    "name": "IndustryDetail",
+    "collections": [
+      "industry_detail"
+    ]
+  },
+  {
+    "id": "newsletter",
+    "name": "Newsletter",
+    "collections": [
+      "newsletter"
+    ]
+  },
+  {
+    "id": "generic",
+    "name": "Generic",
+    "collections": [
+      "generic"
+    ]
+  },
+  {
+    "id": "location_index",
+    "name": "Sedi",
+    "collections": [
+      "location_index"
+    ]
+  },
+  {
+    "id": "location_detail",
+    "name": "Sede",
+    "collections": [
+      "location_detail"
+    ]
+  },
+  {
+    "id": "legal_document",
+    "name": "Documento legale",
+    "collections": [
+      "legal_document"
+    ]
+  },
+  {
+    "id": "inverstor_relations_index",
+    "name": "InverstorRelationsIndex",
+    "collections": [
+      "inverstor_relations_index"
+    ]
+  },
+  {
+    "id": "inverstor_relations_detail",
+    "name": "InverstorRelationsDetail",
+    "collections": [
+      "inverstor_relations_detail"
+    ]
+  }
+]

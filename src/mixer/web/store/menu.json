@@ -1,0 +1,200 @@
+[
+  {
+    "id": "main",
+    "items": [
+      {
+        "type": "group",
+        "title": "What we do",
+        "items": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "product_category",
+              "value": 1
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "product_category",
+              "value": 2
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "product_category",
+              "value": 3
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "product_category",
+              "value": 4
+            }
+          }
+        ]
+      },
+      {
+        "type": "group",
+        "title": "Discover",
+        "items": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "about",
+              "value": 1
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "cultura_index",
+              "value": 1
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "project_index",
+              "value": 1
+            }
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "industry_index",
+              "value": 1
+            }
+          }
+        ]
+      },
+      {
+        "type": "group",
+        "title": "Corporate",
+        "items": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "job",
+              "value": 1
+            }
+          },
+          {
+            "type": "link",
+            "title": "Investor relations",
+            "href": "/investor-relations",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "type": "group",
+        "title": "Follow us",
+        "items": [
+          {
+            "type": "link",
+            "title": "Instagram",
+            "href": "https://www.instagram.com/websolute/?hl=it",
+            "target": "_blank"
+          },
+          {
+            "type": "link",
+            "title": "Linkedin",
+            "href": "https://it.linkedin.com/company/websolute",
+            "target": "_blank"
+          },
+          {
+            "type": "link",
+            "title": "Youtube",
+            "href": "https://www.youtube.com/@WebsoluteIt",
+            "target": "_blank"
+          },
+          {
+            "type": "link",
+            "title": "Spotify",
+            "href": "https://www.youtube.com/@WebsoluteIt",
+            "target": "_blank"
+          },
+          {
+            "type": "link",
+            "title": "TikTok",
+            "href": "https://www.youtube.com/@WebsoluteIt",
+            "target": "_blank"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "footerPre",
+    "items": [
+      {
+        "type": "page",
+        "page": {
+          "relationTo": "contact",
+          "value": 1
+        },
+        "abstract": "Raccontaci di cosa hai bisogno"
+      },
+      {
+        "type": "page",
+        "page": {
+          "relationTo": "job",
+          "value": 1
+        },
+        "abstract": "Unisciti al team"
+      }
+    ]
+  },
+  {
+    "id": "footerMid",
+    "items": [
+      {
+        "type": "group",
+        "title": "Non sei ancora pronto? Inizia a conoscerci:",
+        "items": [
+          {
+            "type": "link",
+            "title": "Instagram",
+            "href": "https://www.instagram.com/websolute/?hl=it",
+            "target": "_blank"
+          },
+          {
+            "type": "link",
+            "title": "Linkedin",
+            "href": "https://it.linkedin.com/company/websolute",
+            "target": "_blank"
+          },
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "newsletter",
+              "value": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "footerEnd",
+    "items": [
+      {
+        "type": "page",
+        "page": {
+          "relationTo": "legal_document",
+          "value": 1
+        }
+      },
+      {
+        "type": "page",
+        "page": {
+          "relationTo": "legal_document",
+          "value": 2
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "category": "cultura_index",
+    "template": "cultura_index",
+    "isDefault": true,
+    "title": "Cultura",
+    "abstract": "Lacinia nisi nisl ad adipiscing. Placerat cras mus vivamus quisque euismod.",
+    "description": "<p>Molestie fames magnis lacus penatibus luctus. Suspendisse dolor fusce velit nam iaculis ante.</p><p>Lectus aenean integer in purus tortor. In suspendisse finibus auctor elementum condimentum egestas augue.</p><p>Enim litora dolor lacinia nunc felis dolor. Sapien aliquam netus lobortis ornare pharetra dolor tincidunt taciti. Aliquet malesuada nam felis et maximus.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://placehold.jp/00a2ed/000000/960x540.png?css=%7B%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%2300a2ed)%2C%20to(%2300ea4e))%22%7D"
+    }
+  }
+]

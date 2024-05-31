@@ -1,0 +1,196 @@
+[
+  {
+    "category": "product_category_strategy",
+    "template": "product_category",
+    "isDefault": true,
+    "title": "Strategy",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem"
+  },
+  {
+    "category": "product_category_branding",
+    "template": "product_category",
+    "isDefault": true,
+    "title": "Branding",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem"
+  },
+  {
+    "category": "product_category_demand_generation",
+    "template": "product_category",
+    "isDefault": true,
+    "title": "Demand Generation",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem",
+    "components": [
+      {
+        "schema": "hero-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": false,
+        "anchor": {
+          "hash": "Hero",
+          "title": "Hero"
+        },
+        "title": "Demand Generation.",
+        "layout": "masked",
+        "media": {
+          "src": "/video/websolute-intro.mp4",
+          "type": "video"
+        }
+      },
+      {
+        "schema": "more-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "anchor": {
+          "hash": "relazione",
+          "title": "Relazione"
+        },
+        "seoWeight": "h3",
+        "description": "Ogni relazione va costruita con impegno, seguita con attenzione e curata senza mai dare nulla per scontato. Ideiamo e realizziamo attività di Demand Generation su misura, per aiutarti a costruire un nuovo dialogo con il tuo pubblico."
+      },
+      {
+        "schema": "media-tabs-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "anchor": {
+          "hash": "come-facciamo",
+          "title": "Come Facciamo"
+        },
+        "title": "Come facciamo.",
+        "abstract": "Per aiutarti a costruire un nuovo dialogo con il tuo pubblico.",
+        "description": "Disponiamo di un’orchestra di agenzie specializzate che dirigiamo e coordiniamo in maniera efficiente ed efficace per rispondere ai bisogni del tuo brand. Come lo rendiamo possibile?",
+        "media": {
+          "src": "/media-tabs/media-tab-0.jpg",
+          "type": "image"
+        },
+        "navs": [
+          {
+            "type": "link",
+            "title": "Il nostro metodo",
+            "href": "/",
+            "target": "_seft"
+          }
+        ],
+        "itemsList": false,
+        "mediaRadius": true,
+        "items": [
+          {
+            "title": "Ascoltando",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/media-tabs/media-tab-1.jpg",
+              "type": "image"
+            }
+          },
+          {
+            "title": "Interpretando",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/media-tabs/media-tab-2.jpg",
+              "type": "image"
+            }
+          },
+          {
+            "title": "Facendo",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/media-tabs/media-tab-3.jpg",
+              "type": "image"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "carousel-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "anchor": {
+          "hash": "cosa-facciamo",
+          "title": "Cosa Facciamo"
+        },
+        "title": "Cosa facciamo.",
+        "abstract": "Per aiutarti a costruire un processo di Demand Generation."
+      },
+      {
+        "schema": "highlights-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": true,
+        "title": "Un mondo che possiamo dire di conoscere bene.",
+        "abstract": "Abbiamo maturato negli anni esperienza e sensibilità e in cui abbiamo portato risultati a chi si è fidato di noi, in un costante e virtuoso scambio di culture e competenze.",
+        "clients": [
+          {
+            "id": 1,
+            "title": "Balsen"
+          },
+          {
+            "id": 2,
+            "title": "Dorelan"
+          },
+          {
+            "id": 3,
+            "title": "Fileni"
+          },
+          {
+            "id": 4,
+            "title": "Luisa Spagnoli"
+          },
+          {
+            "id": 5,
+            "title": "Giovanni Raspini"
+          },
+          {
+            "id": 6,
+            "title": "Landi Renzo"
+          },
+          {
+            "id": 7,
+            "title": "Lorem"
+          },
+          {
+            "id": 8,
+            "title": "Ipsum"
+          }
+        ]
+      },
+      {
+        "schema": "gallery-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Cosa abbiamo realizzato insieme.",
+        "description": "Description Dolor Sit Amet Lorem"
+      },
+      {
+        "schema": "blog-more-1",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "Cultura",
+        "cta": true,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "category": "product_category_commerce",
+    "template": "product_category",
+    "isDefault": true,
+    "title": "Commerce",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem"
+  },
+  {
+    "category": "product_category_technology",
+    "template": "product_category",
+    "isDefault": true,
+    "title": "Technology",
+    "abstract": "Abstract Dolor Sit Amet Lorem",
+    "description": "Description Dolor Sit Amet Lorem"
+  }
+]

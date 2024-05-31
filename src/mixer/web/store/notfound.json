@@ -1,0 +1,13 @@
+[
+  {
+    "category": "homepage",
+    "title": {
+      "en": "Page not found",
+      "it": "Pagina non trovata"
+    },
+    "abstract": {
+      "en": "The page you are looking for does not exist.",
+      "it": "La pagina che stai cercando non esiste."
+    }
+  }
+]

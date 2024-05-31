@@ -1,0 +1,38 @@
+name: ws-bom-deploy
+on:
+  workflow_run:
+    workflows:
+      - ws-bom-build-publish-docker-images
+    types:
+      - completed
+  workflow_dispatch:
+permissions:
+  id-token: write
+  contents: read
+env:
+  APP_NAME: ${{ secrets.APP_NAME }}
+  AZURE_RESOURCE_GROUP: ${{ secrets.AZURE_RESOURCE_GROUP }}
+  AZURE_APP_SLOT: stage
+jobs:
+  deploy:
+    name: login & deploy
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - name: 'az cli login using sp credentials'
+        id: login-cli
+        if: (true)
+        continue-on-error: true
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+      - name: Deploy ${{ env.AZURE_APP_SLOT }} slot
+        id: deploy-slot
+        if: (false)
+        uses: azure/cli@v2
+        with:
+          #azcliversion: 2.59.0
+          inlineScript: |
+            #az account show
+            #az storage -h
+            az webapp restart --name ${{ env.APP_NAME }} --resource-group ${{ env.AZURE_RESOURCE_GROUP }} --slot ${{ env.AZURE_APP_SLOT }}

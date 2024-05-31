@@ -1,0 +1,126 @@
+[
+  {
+    "category": "contact",
+    "isDefault": true,
+    "title": "Contattaci ora",
+    "abstract": "Ciao, raccontaci un po’ di te, di cosa hai bisogno per il progetto e scopri se siamo un buon fit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/50/1920/900"
+    },
+    "options": {
+      "service": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "branding",
+          "name": "Branding"
+        },
+        {
+          "id": "ux-and-ui-design",
+          "name": "UX & UI design"
+        },
+        {
+          "id": "demand-generation",
+          "name": "Demand Generation"
+        },
+        {
+          "id": "campagne-adv",
+          "name": "Campagne adv"
+        },
+        {
+          "id": "e-commerce",
+          "name": "E-commerce"
+        },
+        {
+          "id": "technology",
+          "name": "Technology"
+        },
+        {
+          "id": "altro",
+          "name": "Altro..."
+        }
+      ],
+      "budget": [
+        {
+          "id": "100k-200k",
+          "name": "100k ~ 200k, so che necessita di investimenti adeguati."
+        },
+        {
+          "id": "100k",
+          "name": "~ 100k, ho obiettivi importanti."
+        },
+        {
+          "id": "30k-70k",
+          "name": "30k ~ 70k, voglio investire sul progetto."
+        },
+        {
+          "id": "25k",
+          "name": "~ 25k, sono più che sufficienti."
+        }
+      ],
+      "request": [
+        {
+          "id": "100k-200k",
+          "name": "Al momento vorrei solo capire chi siete e se fate al caso nostro."
+        },
+        {
+          "id": "100k",
+          "name": "Ho diverse cose da mettere in fila, avrei bisogno di una guida."
+        },
+        {
+          "id": "30k-70k",
+          "name": "Ho un progetto dettagliato e le idee chiare, poi vi farò avere un brief."
+        },
+        {
+          "id": "25k",
+          "name": "Vorrei un percorso multidisciplinare che valorizzi la mia azienda nel digitale."
+        }
+      ],
+      "color": [
+        {
+          "id": "cyan",
+          "name": "cyan",
+          "color": "#00aeff"
+        },
+        {
+          "id": "turquoise",
+          "name": "turquoise",
+          "color": "#00d1c7"
+        },
+        {
+          "id": "green",
+          "name": "green",
+          "color": "#28c750"
+        },
+        {
+          "id": "yellow",
+          "name": "yellow",
+          "color": "#ffcc00"
+        },
+        {
+          "id": "orange",
+          "name": "orange",
+          "color": "#ff9500"
+        },
+        {
+          "id": "red",
+          "name": "red",
+          "color": "#ff2619"
+        },
+        {
+          "id": "purple",
+          "name": "purple",
+          "color": "#ac43de"
+        },
+        {
+          "id": "violet",
+          "name": "violet",
+          "color": "#5856d6"
+        }
+      ]
+    }
+  }
+]

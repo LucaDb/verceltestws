@@ -1,0 +1,129 @@
+[
+  {
+    "title": "more",
+    "abstract": "Virtual & Augmented Reality",
+    "colorData": {
+      "title": "Pervinca",
+      "className": "blue-violet"
+    },
+    "order": 60,
+    "navs": [
+      {
+        "type": "link",
+        "title": "more",
+        "href": "https://www.more.mr/it/",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "title": "w.academy",
+    "abstract": "Digital Business School",
+    "colorData": {
+      "title": "Viola",
+      "className": "purple"
+    },
+    "navs": [
+      {
+        "type": "link",
+        "title": "w.academy",
+        "href": "https://w.academy",
+        "target": "_blank"
+      }
+    ],
+    "order": 50
+  },
+  {
+    "title": "dna",
+    "abstract": "Video Storytelling Youtube Editor & Adv",
+    "colorData": {
+      "title": "Giallo",
+      "className": "yellow"
+    },
+    "order": 40,
+    "navs": [
+      {
+        "type": "link",
+        "title": "dna",
+        "href": "https://dnasrl.com/",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "title": "moca",
+    "abstract": "Performance Marketing",
+    "media": {
+      "alt": "moca-logo",
+      "url": "/media/moca-logo.svg"
+    },
+    "colorData": {
+      "title": "Rosso",
+      "className": "red"
+    },
+    "order": 30,
+    "navs": [
+      {
+        "type": "link",
+        "title": "moca",
+        "href": "https://mocainteractive.com/",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "title": "shinteck",
+    "abstract": "Mobile Development",
+    "colorData": {
+      "title": "Giallo",
+      "className": "yellow"
+    },
+    "navs": [
+      {
+        "type": "link",
+        "title": "shinteck",
+        "href": "https://www.xplacecompany.com/",
+        "target": "_blank"
+      }
+    ],
+    "order": 25
+  },
+  {
+    "title": "xplace",
+    "abstract": "Global Social Media Influencer Marketing Engagement",
+    "colorData": {
+      "title": "Verde",
+      "className": "green"
+    },
+    "order": 20,
+    "navs": [
+      {
+        "type": "link",
+        "title": "xplace",
+        "href": "https://www.xplacecompany.com/",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "title": "websolute",
+    "abstract": "Digital Agencies Group",
+    "media": {
+      "alt": "websolute-logo",
+      "url": "/media/websolute-logo.svg"
+    },
+    "colorData": {
+      "title": "ciano",
+      "className": "cyan"
+    },
+    "order": 10,
+    "navs": [
+      {
+        "type": "link",
+        "title": "websolute",
+        "href": "/about",
+        "target": "_self"
+      }
+    ]
+  }
+]

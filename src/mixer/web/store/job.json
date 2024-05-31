@@ -1,0 +1,557 @@
+[
+  {
+    "category": "job",
+    "isDefault": true,
+    "template": "job",
+    "title": "Lavora con noi",
+    "abstract": "Phasellus aenean etiam ut.",
+    "description": "<p>Penatibus quis scelerisque dictum, risus tristique facilisis. Elit curae risus natoque mattis erat.</p><p>Turpis tortor sed at pellentesque turpis torquent. Porta mi aenean nullam elit, per taciti commodo placerat. Sem tellus euismod ultrices nam vehicula.</p><p>Morbi volutpat lobortis urna potenti nullam justo inceptos. Sagittis pretium fermentum cubilia ut taciti porta fames. Auctor massa malesuada libero gravida parturient sit.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://placehold.jp/345199/3a63be/960x540.png?text=placehold%20960x540"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Punto di partenza, lavora con noi.",
+        "titleSize": "md",
+        "description": "Siamo sempre alla ricerca di persone di talento e aperte a nuove idee per garantire il successo dei progetti e la felicità dei clienti. Potresti essere proprio quello che stiamo cercando?",
+        "media": {
+          "type": "video",
+          "src": "https://websolute.azurewebsites.net/oven/media/04_Facciamo.mp4"
+        },
+        "scrollToAnchor": {
+          "target": "posizioni-aperte",
+          "title": "Vai alle posizioni aperte"
+        }
+      },
+      {
+        "schema": "media-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/1080"
+        }
+      },
+      {
+        "schema": "media-slider-grid",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Lavorare in Websolute.",
+        "description": "In Websolute, vi troverete in un ambiente vibrante, ricco di persone appassionate con competenze diverse e specialisti del settore, dove l'apprendimento e la crescita professionale sono parte integrante del percorso di ognuno.",
+        "items": [
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/2/640/480",
+              "type": "image",
+              "alt": "lreom"
+            }
+          },
+          {
+            "media": {
+              "src": "https://picsum.photos/id/1/640/480",
+              "type": "image",
+              "alt": "lorem"
+            }
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "cosa-cerchiamo",
+          "title": "Cosa cerchiamo"
+        },
+        "schema": "text-list",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "Lorem",
+        "title": "Cosa cerchiamo.",
+        "abstract": "lorem ipsum dolor sit amet",
+        "description": "lorem ipsum dolor sit amet",
+        "items": [
+          {
+            "title": "Have your team's back.",
+            "description": "Ci impegniamo a creare un ambiente di lavoro positivo e di supporto per l'intero team, costruito su una base di valori condivisi e sull'impegno per l'eccellenza. Crediamo che lavorando insieme e sostenendoci a vicenda possiamo realizzare un lavoro davvero eccezionale."
+          },
+          {
+            "title": "Appassionati e geeks.",
+            "description": "Il nostro lavoro è guidato dall’intuizione che deriva dalla conoscenza che viene trainata a sua volta dalla passione verso un determinato ambito o tema. Cerchiamo persone che siano appassionate delle loro cose, qualunque esse siano."
+          },
+          {
+            "title": "Curiosità fuori e dentro l’ufficio.",
+            "description": "Il nostro lavoro si basa sulla ricerca di soluzioni innovative e di novità in un ufficio ce n’è ben poca. Sappiamo che per fare un buon lavoro dobbiamo essere sul campo, incontrare persone e assorbire conoscenze, quindi pianifichiamo i nostri progetti di conseguenza."
+          },
+          {
+            "title": "Autodefinizione di sé.",
+            "description": "A volte non sai di poter fare qualcosa finché non la fai. Pertanto, anche se assumiamo per ruoli particolari, apriamo tutte le parti del nostro processo all'intero team e ti incoraggiamo a sperimentare oltre il tuo titolo professionale, in modo da poter crescere in direzioni inaspettate ed entusiasmanti."
+          },
+          {
+            "title": "Gentilezza.",
+            "description": "Diamo priorità alla sicurezza e al benessere del nostro gruppo e abbiamo stabilito protocolli e procedure per garantire che il nostro ambiente di lavoro lo supporti. Ci impegniamo a fornire un luogo di lavoro sereno libero da discriminazioni e molestie."
+          }
+        ]
+      },
+      {
+        "schema": "media-tabs-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "anchor": {
+          "hash": "cosa-offriamo",
+          "title": "Cosa Offriamo"
+        },
+        "layout": "inline",
+        "title": "Cosa offriamo.",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "media": {
+          "src": "https://picsum.photos/id/3/1064/1064",
+          "type": "image",
+          "alt": "lorem ipsum dolor sit amet"
+        },
+        "itemsList": false,
+        "items": [
+          {
+            "title": "Remote working",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "https://picsum.photos/id/2/1064/1064",
+              "type": "image",
+              "alt": "lorem ipsum dolor sit amet"
+            }
+          },
+          {
+            "title": "Formazione",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "https://picsum.photos/id/1/1064/1064",
+              "type": "image",
+              "alt": "lorem ipsum dolor sit amet"
+            }
+          },
+          {
+            "title": "Lorem ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "https://picsum.photos/id/4/1064/1064",
+              "type": "image",
+              "alt": "lorem ipsum dolor sit amet"
+            }
+          },
+          {
+            "title": "Lorem ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "https://picsum.photos/id/5/1064/1064",
+              "type": "image",
+              "alt": "lorem ipsum dolor sit amet"
+            }
+          }
+        ]
+      },
+      {
+        "eyelet": "LA NOSTRA FILOSOFIA PROGETTUALE",
+        "title": "Design for love.",
+        "abstract": "\u003Cp\u003E\u003Cspan\u003ECon passione abbiamo maturato negli anni esperienza e sensibilità che ha portato grandi risultati a chi si è fidato di noi, in un costante scambio di cultura e competenza. Crediamo che il nostro ruolo oggi consista nell’interpretare le esigenze dei clienti e comunicarle attraverso l’uso di nuove tecnologie e progettando con amore.\u003C/span\u003E\u003C/p\u003E",
+        "description": "\u003Cp\u003E\u003Cspan\u003ECon passione abbiamo maturato negli anni esperienza e sensibilità che ha portato grandi risultati a chi si è fidato di noi, in un costante scambio di cultura e competenza. \u003C/span\u003E\u003C/p\u003E",
+        "items": [
+          {
+            "eyelet": "",
+            "title": "Level up",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EProgress to the next level and acquire new experience.\u003C/span\u003E\u003C/p\u003E",
+            "description": "\u003Cp\u003E\u003Cspan\u003EL’intero processo deve far fare un salto di qualità all’azienda nel suo complesso: nuovi territori da presidiare, nuova esperienza a servizio del business.\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "664771e11d5067ca390b5b8f",
+              "alt": "L",
+              "filename": "L.jpg",
+              "mimeType": "image/jpeg",
+              "filesize": 42925,
+              "width": 1065,
+              "height": 1064,
+              "sizes": {
+                "card": {
+                  "width": 640,
+                  "height": 480,
+                  "mimeType": "image/jpeg",
+                  "filesize": 4729,
+                  "filename": "L-640x480.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/L-640x480.jpg"
+                },
+                "feature": {
+                  "width": 1024,
+                  "height": 576,
+                  "mimeType": "image/jpeg",
+                  "filesize": 6456,
+                  "filename": "L-1024x576.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/L-1024x576.jpg"
+                }
+              },
+              "createdAt": "2024-05-17T15:04:01.817Z",
+              "updatedAt": "2024-05-17T15:04:01.817Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/L.jpg"
+            },
+            "id": "663e32a9cb68fb37543c5a4a"
+          },
+          {
+            "title": "Obstacle overcoming",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EUnderstand obstacles and constraints, remove the firsts, pivot on the seconds.\u003C/span\u003E\u003C/p\u003E",
+            "description": "\u003Cp\u003E\u003Cspan\u003ELa complessità del business e le particolarità di ciascuna azienda richiedono un approccio sartoriale che le valorizzi, superando gli ostacoli e facendo perno sui vincoli.\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "664771f11d5067ca390b5b9e",
+              "alt": "O",
+              "filename": "O.jpg",
+              "mimeType": "image/jpeg",
+              "filesize": 86328,
+              "width": 1065,
+              "height": 1064,
+              "sizes": {
+                "card": {
+                  "width": 640,
+                  "height": 480,
+                  "mimeType": "image/jpeg",
+                  "filesize": 13255,
+                  "filename": "O-640x480.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/O-640x480.jpg"
+                },
+                "feature": {
+                  "width": 1024,
+                  "height": 576,
+                  "mimeType": "image/jpeg",
+                  "filesize": 18855,
+                  "filename": "O-1024x576.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/O-1024x576.jpg"
+                }
+              },
+              "createdAt": "2024-05-17T15:04:17.865Z",
+              "updatedAt": "2024-05-17T15:04:17.865Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/O.jpg"
+            },
+            "id": "663e32d1cb68fb37543c5a4b"
+          },
+          {
+            "eyelet": "",
+            "title": "Value creation",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003ECreate value or die trying.\u003C/span\u003E\u003C/p\u003E",
+            "description": "\u003Cp\u003E\u003Cspan\u003EOgni azione deve essere finalizzata a creare valore per l’azienda e per il business; il design e la strategia non sono mai il fine ma il mezzo per raggiungere gli obiettivi prefissati.\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "664772341d5067ca390b5bdc",
+              "alt": "V",
+              "filename": "V.jpg",
+              "mimeType": "image/jpeg",
+              "filesize": 73551,
+              "width": 1065,
+              "height": 1064,
+              "sizes": {
+                "card": {
+                  "width": 640,
+                  "height": 480,
+                  "mimeType": "image/jpeg",
+                  "filesize": 10544,
+                  "filename": "V-640x480.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/V-640x480.jpg"
+                },
+                "feature": {
+                  "width": 1024,
+                  "height": 576,
+                  "mimeType": "image/jpeg",
+                  "filesize": 16055,
+                  "filename": "V-1024x576.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/V-1024x576.jpg"
+                }
+              },
+              "createdAt": "2024-05-17T15:05:24.081Z",
+              "updatedAt": "2024-05-17T15:05:24.081Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/V.jpg"
+            },
+            "id": "663e3362cb68fb37543c5a4c"
+          },
+          {
+            "eyelet": "",
+            "title": "Efficiency  required",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EBudget and timing are part of the process, find the local optimum.\u003C/span\u003E\u003C/p\u003E",
+            "description": "\u003Cp\u003E\u003Cspan\u003ENel mondo reale budget e tempo non sono infiniti ma sono parte del progetto. Design e strategia devono tenerli ben presenti per puntare al “massimo realizzabile”.\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "664772401d5067ca390b5be9",
+              "alt": "E",
+              "filename": "E.jpg",
+              "mimeType": "image/jpeg",
+              "filesize": 47497,
+              "width": 1065,
+              "height": 1064,
+              "sizes": {
+                "card": {
+                  "width": 640,
+                  "height": 480,
+                  "mimeType": "image/jpeg",
+                  "filesize": 6105,
+                  "filename": "E-640x480.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/E-640x480.jpg"
+                },
+                "feature": {
+                  "width": 1024,
+                  "height": 576,
+                  "mimeType": "image/jpeg",
+                  "filesize": 8958,
+                  "filename": "E-1024x576.jpg",
+                  "url": "https://websolute.azurewebsites.net/oven/media/E-1024x576.jpg"
+                }
+              },
+              "createdAt": "2024-05-17T15:05:36.700Z",
+              "updatedAt": "2024-05-17T15:05:36.700Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/E.jpg"
+            },
+            "id": "663e339fcb68fb37543c5a4d"
+          }
+        ],
+        "anchor": {
+          "title": "La filosofia",
+          "hash": "la-filosofia"
+        },
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "id": "663e325ecb68fb37543c5a49",
+        "blockName": "LA NOSTRA FILOSOFIA PROGETTUALE",
+        "blockType": "text-combo-slider-1"
+      },
+      {
+        "anchor": {
+          "hash": "posizioni-aperte",
+          "title": "Posizioni aperte"
+        },
+        "schema": "text-list",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Posizioni aperte",
+        "items": [
+          {
+            "title": "Internship A.I. Technology",
+            "abstract": "PESARO",
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidati",
+                "href": "https://www.bvalue.it/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "Cro specialist",
+            "abstract": "TREVISO",
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidati",
+                "href": "https://www.bvalue.it/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "Digital Brand Strategist",
+            "abstract": "PESARO",
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidati",
+                "href": "https://www.bvalue.it/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "UX/UI designer",
+            "abstract": "PESARO",
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidati",
+                "href": "https://www.bvalue.it/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schema": "card-list",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Valutiamo anche profili nelle seguenti aree di interesse:",
+        "items": [
+          {
+            "title": "DIGITAL STRATEGY",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/carousel/carousel-01.svg",
+              "type": "image",
+              "alt": "lorem"
+            },
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidatura spontanea",
+                "href": "/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "PROJECT MANAGEMENT",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/carousel/carousel-02.svg",
+              "type": "image",
+              "alt": "lorem"
+            },
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidatura spontanea",
+                "href": "/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "DESIGN & FRONT-END",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/carousel/carousel-03.svg",
+              "type": "image",
+              "alt": "lorem"
+            },
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidatura spontanea",
+                "href": "/",
+                "target": "_blank"
+              }
+            ]
+          },
+          {
+            "title": "SVILUPPO BACK-END",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "media": {
+              "src": "/carousel/carousel-04.svg",
+              "type": "image",
+              "alt": "lorem"
+            },
+            "navs": [
+              {
+                "type": "link",
+                "title": "Candidatura spontanea",
+                "href": "/",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

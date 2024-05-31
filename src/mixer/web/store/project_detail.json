@@ -1,0 +1,5870 @@
+[
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Catalano",
+    "client": {
+      "id": 31,
+      "title": "Catalano"
+    },
+    "abstract": "Una nuova strategia di brand positioning.",
+    "description": "Catalano ci ha commissionato la progettazione di una strategia comunicativa digitale che risaltasse i valori del brand e la qualità di prodotti e collezioni. Abbiamo realizzato una nuova piattaforma digitale e una nuova strategia social che comunicasse la qualità tutta italiana delle ceramiche Catalano. ",
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ],
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/81/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "hero": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/81/1920/1080"
+        }
+      }
+    ],
+    "components": [
+      {
+        "schema": "media-video",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": true,
+        "thumb": {
+          "type": "image",
+          "src": "https://picsum.photos/id/2/1920/900",
+          "alt": "lorem"
+        },
+        "media": {
+          "src": "/video/websolute-intro.mp4",
+          "type": "video"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "intro",
+          "title": "Intro"
+        },
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "title": "Una nuova strategia di brand positioning.",
+        "description": "Catalano ci ha commissionato la progettazione di una strategia comunicativa digitale che risaltasse i valori del brand e la qualità di prodotti e collezioni. Abbiamo realizzato una nuova piattaforma digitale e una nuova strategia social che comunicasse la qualità tutta italiana delle ceramiche Catalano. ",
+        "archived": true
+      },
+      {
+        "items": [
+          {
+            "title": "Informazioni",
+            "items": [
+              {
+                "title": "Cliente",
+                "items": [
+                  {
+                    "title": "Catalano",
+                    "navs": [],
+                    "id": "663361ca91727259921f63ad"
+                  }
+                ],
+                "id": "65e9d841b73bb05ca7866ca8",
+                "abstract": ""
+              },
+              {
+                "title": "Settore",
+                "items": [
+                  {
+                    "title": "Ceramica",
+                    "navs": [],
+                    "id": "65e9d82db73bb05ca7866ca7"
+                  }
+                ],
+                "id": "65e9d81fb73bb05ca7866ca6",
+                "abstract": ""
+              },
+              {
+                "title": "Data rilascio",
+                "items": [
+                  {
+                    "title": "30 maggio 2022",
+                    "navs": [],
+                    "id": "65e9d869b73bb05ca7866caa"
+                  }
+                ],
+                "id": "65e9d861b73bb05ca7866ca9",
+                "abstract": ""
+              },
+              {
+                "title": "Sito web",
+                "items": [
+                  {
+                    "title": "www.catalano.it",
+                    "navs": [
+                      {
+                        "type": "link",
+                        "title": "www.catalano.it",
+                        "href": "https://www.catalano.it/",
+                        "target": "_blank",
+                        "items": [],
+                        "id": "6633622e91727259921f63af",
+                        "blockType": "Level 0",
+                        "abstract": ""
+                      }
+                    ],
+                    "id": "65e9d88fb73bb05ca7866cad"
+                  }
+                ],
+                "id": "65e9d888b73bb05ca7866cac",
+                "abstract": ""
+              },
+              {
+                "title": "Awards",
+                "items": [
+                  {
+                    "title": "Interactive Key Award",
+                    "navs": [
+                      {
+                        "type": "link",
+                        "title": "Interactive Key Awards",
+                        "href": "https://www.mediakey.tv/awards/interactive-key-award",
+                        "target": "_blank",
+                        "items": [],
+                        "id": "65f1c0f347ae8ceec9f3c0c0",
+                        "blockName": "Interactive Key Awards",
+                        "blockType": "Level 0",
+                        "abstract": ""
+                      }
+                    ],
+                    "id": "65f1c0f047ae8ceec9f3c0bf"
+                  }
+                ],
+                "id": "65e9d875b73bb05ca7866cab",
+                "abstract": ""
+              },
+              {
+                "title": "Budget",
+                "items": [
+                  {
+                    "title": "Confidential",
+                    "navs": [],
+                    "id": "65e9d8a4b73bb05ca7866caf"
+                  }
+                ],
+                "id": "65e9d89cb73bb05ca7866cae",
+                "abstract": ""
+              }
+            ],
+            "partners": [],
+            "id": "65e9d814b73bb05ca7866ca5"
+          },
+          {
+            "title": "Servizi",
+            "items": [
+              {
+                "title": "Strategy",
+                "items": [
+                  {
+                    "title": "Strategia social",
+                    "navs": [
+                      {
+                        "id": "663363d691727259921f63b2",
+                        "type": "page",
+                        "title": "Social Strategy",
+                        "href": "/strategy/social-strategy",
+                        "page": "6627942ebdd733933f2882c7",
+                        "schema": "product_detail",
+                        "media": "6645e6727af671abf4f9e3fe",
+                        "abstract": "",
+                        "items": []
+                      }
+                    ],
+                    "id": "6633638c91727259921f63b0"
+                  },
+                  {
+                    "title": "Piano editoriale",
+                    "navs": [],
+                    "id": "663363f191727259921f63b3"
+                  }
+                ],
+                "id": "65e9d8bfb73bb05ca7866cb1",
+                "abstract": ""
+              },
+              {
+                "title": "Branding",
+                "items": [
+                  {
+                    "title": "UX/UI Design",
+                    "navs": [],
+                    "id": "6633640591727259921f63b4"
+                  },
+                  {
+                    "title": "Design Website",
+                    "navs": [],
+                    "id": "6633640e91727259921f63b5"
+                  },
+                  {
+                    "title": "Art direction",
+                    "navs": [],
+                    "id": "6633641691727259921f63b6"
+                  },
+                  {
+                    "title": "Inform. architecture",
+                    "navs": [],
+                    "id": "6633641e91727259921f63b7"
+                  },
+                  {
+                    "title": "Development",
+                    "navs": [],
+                    "id": "6633643091727259921f63b8"
+                  }
+                ],
+                "id": "65e9d8d3b73bb05ca7866cb2",
+                "abstract": ""
+              },
+              {
+                "title": "Demand Gen.",
+                "items": [
+                  {
+                    "title": "SEO",
+                    "navs": [],
+                    "id": "6633643a91727259921f63b9"
+                  },
+                  {
+                    "title": "Social media",
+                    "navs": [],
+                    "id": "6633644291727259921f63ba"
+                  },
+                  {
+                    "title": "Digital Advertising",
+                    "navs": [],
+                    "id": "6633644991727259921f63bb"
+                  }
+                ],
+                "id": "65e9d8d6b73bb05ca7866cb3",
+                "abstract": ""
+              },
+              {
+                "title": "E-commerce",
+                "items": [
+                  {
+                    "title": "/",
+                    "navs": [],
+                    "id": "6633645691727259921f63bc"
+                  }
+                ],
+                "id": "65e9d8f9b73bb05ca7866cb4",
+                "abstract": ""
+              }
+            ],
+            "partners": [],
+            "id": "65e9d8bab73bb05ca7866cb0"
+          },
+          {
+            "title": "Team",
+            "companies": [
+              {
+                "id": "6603fb33794e36dedcef2ed7",
+                "title": "websolute",
+                "abstract": "\u003Cp\u003E\u003Cspan\u003EDigital Strategy | Branding | Demand\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EGeneration | Commerce | Technology\u003C/span\u003E\u003C/p\u003E",
+                "media": {
+                  "id": "65e9ebbd569d22ca960c5143",
+                  "alt": "websolute-logo",
+                  "filename": "websolute-logo.svg",
+                  "mimeType": "image/svg+xml",
+                  "filesize": 6186,
+                  "width": 181,
+                  "height": 31,
+                  "sizes": {
+                    "card": {
+                      "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                    },
+                    "feature": {
+                      "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                    }
+                  },
+                  "createdAt": "2024-03-07T16:30:53.870Z",
+                  "updatedAt": "2024-03-07T16:30:53.870Z",
+                  "url": "https://websolute.azurewebsites.net/oven/media/websolute-logo.svg"
+                },
+                "order": 10,
+                "navs": [
+                  {
+                    "type": "page",
+                    "page": {
+                      "value": "65e9a6acf569b01a5dbef1a2",
+                      "relationTo": "about"
+                    },
+                    "target": "_blank",
+                    "items": [],
+                    "id": "6603fb07eb8e1e6c29a080c3",
+                    "blockType": "Level 0",
+                    "abstract": ""
+                  }
+                ],
+                "createdAt": "2024-03-27T10:55:47.135Z",
+                "updatedAt": "2024-04-26T09:24:34.940Z",
+                "colorData": {
+                  "id": "661e40af6f4abc50c0cfa93e",
+                  "title": "Ciano",
+                  "createdAt": "2024-04-16T09:11:11.363Z",
+                  "updatedAt": "2024-04-19T06:57:04.901Z",
+                  "className": "cyan"
+                }
+              },
+              {
+                "id": "6604078b27a557dda39e5705",
+                "title": "moca",
+                "abstract": "\u003Cp\u003E\u003Cspan\u003EPerformance Marketing\u003C/span\u003E\u003C/p\u003E",
+                "media": {
+                  "id": "65e9ec3c569d22ca960c5178",
+                  "alt": "moca-logo",
+                  "filename": "moca-logo.svg",
+                  "mimeType": "image/svg+xml",
+                  "filesize": 3794,
+                  "width": 130,
+                  "height": 31,
+                  "sizes": {
+                    "card": {
+                      "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                    },
+                    "feature": {
+                      "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                    }
+                  },
+                  "createdAt": "2024-03-07T16:33:00.606Z",
+                  "updatedAt": "2024-03-07T16:33:00.606Z",
+                  "url": "https://websolute.azurewebsites.net/oven/media/moca-logo.svg"
+                },
+                "order": 30,
+                "navs": [
+                  {
+                    "type": "link",
+                    "title": "moca",
+                    "href": "https://mocainteractive.com/",
+                    "target": "_blank",
+                    "items": [],
+                    "id": "66040772488741fa6d04f76c",
+                    "blockType": "Level 0",
+                    "abstract": ""
+                  }
+                ],
+                "createdAt": "2024-03-27T11:48:27.353Z",
+                "updatedAt": "2024-04-18T15:13:22.753Z",
+                "colorData": {
+                  "id": "661e5941f72e8b5267457d5e",
+                  "title": "Rosso",
+                  "createdAt": "2024-04-16T10:56:01.902Z",
+                  "updatedAt": "2024-04-19T06:56:27.131Z",
+                  "className": "red"
+                }
+              }
+            ],
+            "items": [
+              {
+                "title": "Digital Strategist",
+                "items": [
+                  {
+                    "title": "Claudio Tonti",
+                    "navs": [],
+                    "id": "65e9d926b73bb05ca7866cb7"
+                  },
+                  {
+                    "title": "Corrado Magni",
+                    "navs": [],
+                    "id": "65e9d92ab73bb05ca7866cb8"
+                  }
+                ],
+                "id": "65e9d91eb73bb05ca7866cb6",
+                "abstract": ""
+              },
+              {
+                "title": "Analyst specialist",
+                "items": [
+                  {
+                    "title": "Giacomo Tacchi",
+                    "navs": [],
+                    "id": "65e9d940b73bb05ca7866cba"
+                  }
+                ],
+                "id": "65e9d93eb73bb05ca7866cb9",
+                "abstract": ""
+              },
+              {
+                "title": "Commerciale",
+                "items": [
+                  {
+                    "title": "Massimo De Simone",
+                    "navs": [],
+                    "id": "65e9d955b73bb05ca7866cbc"
+                  }
+                ],
+                "id": "65e9d94eb73bb05ca7866cbb",
+                "abstract": ""
+              },
+              {
+                "title": "SEO specialist",
+                "items": [
+                  {
+                    "title": "Federica Marchesin",
+                    "navs": [],
+                    "id": "65e9d966b73bb05ca7866cbe"
+                  }
+                ],
+                "id": "65e9d95eb73bb05ca7866cbd",
+                "abstract": ""
+              },
+              {
+                "title": "Designer & Art Director",
+                "items": [
+                  {
+                    "title": "Stefano Corinaldesi",
+                    "navs": [],
+                    "id": "65e9d97ab73bb05ca7866cc0"
+                  }
+                ],
+                "id": "65e9d973b73bb05ca7866cbf",
+                "abstract": ""
+              },
+              {
+                "title": "DTC",
+                "items": [
+                  {
+                    "title": "Valerio Aversa",
+                    "navs": [],
+                    "id": "65e9d98db73bb05ca7866cc2"
+                  },
+                  {
+                    "title": "Lorenzo Omiccioli",
+                    "navs": [],
+                    "id": "65e9d992b73bb05ca7866cc3"
+                  },
+                  {
+                    "title": "Luca Pierobon",
+                    "navs": [],
+                    "id": "65e9d998b73bb05ca7866cc4"
+                  }
+                ],
+                "id": "65e9d98ab73bb05ca7866cc1",
+                "abstract": ""
+              }
+            ],
+            "partners": [
+              {
+                "title": "Collaboratori esterni",
+                "abstract": "\u003Cp\u003E\u003Cspan\u003ESviluppo backend & Frontend\u003C/span\u003E\u003C/p\u003E",
+                "items": [
+                  {
+                    "title": "SEISNET",
+                    "navs": [],
+                    "id": "65e9d9adb73bb05ca7866cc6"
+                  }
+                ],
+                "id": "65e9d9aab73bb05ca7866cc5"
+              }
+            ],
+            "id": "65e9d914b73bb05ca7866cb5"
+          }
+        ],
+        "anchor": {
+          "title": "Overview",
+          "hash": "overview"
+        },
+        "topSpace": false,
+        "innerSpace": false,
+        "id": "65e9d812b73bb05ca7866ca4",
+        "blockType": "overview-1"
+      },
+      {
+        "schema": "image-mask-1",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/82/1920/1080"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "cosa-ci-hanno-chiesto",
+          "title": "Cosa ci hanno chiesto"
+        },
+        "schema": "quote-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "colorScheme": "light",
+        "title": "COSA CI HANNO CHIESTO",
+        "description": "Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim",
+        "author": {
+          "firstName": "Mario",
+          "lastName": "Rossi",
+          "fullName": "Mario Rossi",
+          "role": {
+            "title": "Catalano Head Chief"
+          }
+        },
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/14/45/45"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "brand-positioning",
+          "title": "Brand Positioning"
+        },
+        "schema": "side-images-1",
+        "colorScheme": "grey",
+        "title": "UNA NUOVA STRATEGIA DI BRAND POSITIONING",
+        "description": "Catalano ci ha commissionato la progettazione di una strategia comunicativa digitale che risaltasse i valori del brand e la qualità di prodotti e collezioni. Abbiamo realizzato una nuova piattaforma digitale e una nuova strategia social che comunicasse la qualità tutta italiana delle ceramiche Catalano. ",
+        "navs": [
+          {
+            "type": "link",
+            "title": "Industries",
+            "href": "/industries",
+            "target": "_self"
+          }
+        ],
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/6/600/600",
+          "alt": "lorem"
+        },
+        "items": [
+          {
+            "type": "image",
+            "src": "https://picsum.photos/id/12/878/2048",
+            "alt": "lorem"
+          }
+        ]
+      },
+      {
+        "schema": "title-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "LOREM IPSUM DOLOR",
+        "title": "Una nuova interfaccia",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "wrapper": false,
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/1/1920/1080"
+        },
+        "layout": "horizontal",
+        "items": [
+          {
+            "type": "video",
+            "src": "/video/-b1c4-4f40-ba05-80513cab724d.mp4"
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "interfaccia",
+          "title": "Interfaccia"
+        },
+        "schema": "media-split-1",
+        "topSpace": false,
+        "colorScheme": "light",
+        "eyelet": "UNA NUOVA INTERFACCIA",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "Una nuova interfaccia",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "swap": false,
+        "layout": "full",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/960/1200",
+          "alt": "lorem"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "visual-identity",
+          "title": "Visual Identity"
+        },
+        "schema": "title-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "VISUAL IDENTITY & ART DIRECTION",
+        "title": "Una nuova interfaccia",
+        "abstract": "Abbiamo progettato il nuovo logotipo e definito tutta l’identità visiva digitale e offline per dare una direzione comunicativa rinnovata al brand attraverso la scelta di tipografia, colori, contenuti e layout.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "schema": "media-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": true,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/6/1920/1080",
+          "alt": "alt"
+        }
+      },
+      {
+        "schema": "media-double-1",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "wrapper": true,
+        "items": [
+          {
+            "type": "image",
+            "src": "https://picsum.photos/id/12/960/1200",
+            "alt": "alt"
+          },
+          {
+            "type": "image",
+            "src": "https://picsum.photos/id/11/960/1200",
+            "alt": "alt"
+          }
+        ]
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": false,
+        "innerSpace": false,
+        "wrapper": true,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/7/1920/1080",
+          "alt": "alt"
+        }
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "vertical",
+        "items": [
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          },
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          },
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          }
+        ]
+      },
+      {
+        "schema": "media-split-1",
+        "topSpace": false,
+        "colorScheme": "light",
+        "mediaColor": "grey",
+        "abstract": "Nothing is left to chance, not even the color choice of our products. Color creates an immediate connection. It has the power to convey different emotions and sensations.",
+        "title": "#ceramicacatalano #thefutureofceramic #italiandesign #luxurybathroom",
+        "swap": true,
+        "layout": "vertical",
+        "media": {
+          "type": "video",
+          "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "brand-manifesto",
+          "title": "Brand Manifesto"
+        },
+        "schema": "title-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "IL BRAND MANIFESTO",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "horizontal",
+        "media": {
+          "type": "video",
+          "src": "/video/-717b-4ebd-875d-174815b054cc.mp4"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "la-richiesta",
+          "title": "La richiesta"
+        },
+        "schema": "quote-1",
+        "title": "COSA CI HANNO CHIESTO",
+        "description": "Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim",
+        "author": {
+          "firstName": "Mario",
+          "lastName": "Rossi",
+          "fullName": "Mario Rossi",
+          "role": {
+            "title": "Catalano Head Chief"
+          }
+        },
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/14/45/45",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/1920/1080",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": false,
+        "innerSpace": true,
+        "wrapper": true,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/1080",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "quote-1",
+        "title": "COSA CI HANNO CHIESTO",
+        "description": "Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim",
+        "author": {
+          "firstName": "Mario",
+          "lastName": "Rossi",
+          "fullName": "Mario Rossi",
+          "role": {
+            "title": "Catalano Head Chief"
+          }
+        },
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/14/45/45",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "media-drawer-1",
+        "colorScheme": "grey",
+        "topSpace": true,
+        "eyelet": "COME NASCE IL BRAND MANIFESTO",
+        "abstract": "Approfondisci il lavoro di copy dietro alla realizzazione del nuovo Brand Manifesto di Catalano. scopri di più",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/1/1920/1080",
+          "alt": "lorem"
+        },
+        "modal": {
+          "title": "Com'è nato il brand manifesto",
+          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "description": "Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim"
+        }
+      },
+      {
+        "schema": "title-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "LOREM IPSUM",
+        "title": "La comunicazione social",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "vertical",
+        "items": [
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          },
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          },
+          {
+            "type": "video",
+            "src": "/video/-3da9-4c60-8f66-107455d4a752.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Arper",
+    "client": {
+      "id": 12,
+      "title": "Arper"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/95/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Bahlsen",
+    "client": {
+      "id": 14,
+      "title": "Bahlsen"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/33/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Brooks England",
+    "client": {
+      "id": 24,
+      "title": "Brooks England"
+    },
+    "abstract": "Lorem ipsum dolor sit amet, consectetur elit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/7/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Caesar",
+    "client": {
+      "id": 25,
+      "title": "Caesar"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/8/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Calligaris",
+    "client": {
+      "id": 26,
+      "title": "Calligaris"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/9/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      },
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Calzedonia Group",
+    "client": {
+      "id": 27,
+      "title": "Calzedonia Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/10/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Campagnolo",
+    "client": {
+      "id": 28,
+      "title": "Campagnolo"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/11/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Cantina della Birra",
+    "client": {
+      "id": 29,
+      "title": "Cantina della Birra"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/12/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Castaldi Lighting",
+    "client": {
+      "id": 30,
+      "title": "Castaldi Lighting"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/13/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Chanteclair",
+    "client": {
+      "id": 32,
+      "title": "Chanteclair"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/15/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Chicco",
+    "client": {
+      "id": 33,
+      "title": "Chicco"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Colacem",
+    "client": {
+      "id": 34,
+      "title": "Colacem"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/17/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Comet Gruppo",
+    "client": {
+      "id": 35,
+      "title": "Comet Gruppo"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/18/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Comieco",
+    "client": {
+      "id": 36,
+      "title": "Comieco"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/19/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Chanteclair",
+    "client": {
+      "id": 37,
+      "title": "Chanteclair"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/20/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Costa Edutainment",
+    "client": {
+      "id": 38,
+      "title": "Costa Edutainment"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/21/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "7",
+        "title": "Hospitality"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Cotto d’Este",
+    "client": {
+      "id": 39,
+      "title": "Cotto d’Este"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/22/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Datalogic",
+    "client": {
+      "id": 40,
+      "title": "Datalogic"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/23/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "De Cecco",
+    "client": {
+      "id": 41,
+      "title": "De Cecco"
+    },
+    "abstract": "Fare le cose per bene è una questione di metodo.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/24/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dea Flavor",
+    "client": {
+      "id": 42,
+      "title": "Dea Flavor"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/25/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Della Rovere",
+    "client": {
+      "id": 43,
+      "title": "Della Rovere"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/26/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Demosend",
+    "client": {
+      "id": 44,
+      "title": "Demosend"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/27/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dermon",
+    "client": {
+      "id": 45,
+      "title": "Dermon"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/28/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      }
+    ],
+    "type": [
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dielle",
+    "client": {
+      "id": 46,
+      "title": "Dielle"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/29/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Donnafugata",
+    "client": {
+      "id": 47,
+      "title": "Donnafugata"
+    },
+    "abstract": "Un e-commerce basato sullo storytelling.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/30/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dorelan",
+    "client": {
+      "id": 48,
+      "title": "Dorelan"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/26/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dounenstep",
+    "client": {
+      "id": 49,
+      "title": "Dounenstep"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/32/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Dove",
+    "client": {
+      "id": 50,
+      "title": "Dove"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/33/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Eden Viaggi",
+    "client": {
+      "id": 51,
+      "title": "Eden Viaggi"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/34/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "7",
+        "title": "Hospitality"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Emoform",
+    "client": {
+      "id": 52,
+      "title": "Emoform"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/35/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Ernestomeda",
+    "client": {
+      "id": 53,
+      "title": "Ernestomeda"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/36/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Euroconference",
+    "client": {
+      "id": 54,
+      "title": "Euroconference"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/37/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Eurospin Viaggi",
+    "client": {
+      "id": 55,
+      "title": "Eurospin Viaggi"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/38/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "7",
+        "title": "Hospitality"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Eurotherm",
+    "client": {
+      "id": 56,
+      "title": "Eurotherm"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/39/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fater",
+    "client": {
+      "id": 57,
+      "title": "Fater"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/1/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fico Eataly World",
+    "client": {
+      "id": 58,
+      "title": "Fico Eataly World"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/2/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fileni",
+    "client": {
+      "id": 59,
+      "title": "Fileni"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/3/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fluiten",
+    "client": {
+      "id": 60,
+      "title": "Fluiten"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/4/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Focchi Group",
+    "client": {
+      "id": 61,
+      "title": "Focchi Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/5/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fondital",
+    "client": {
+      "id": 62,
+      "title": "Fondital"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/6/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Friuli Venezia Giulia",
+    "client": {
+      "id": 63,
+      "title": "Friuli Venezia Giulia"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/7/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "7",
+        "title": "Hospitality"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Fulgor",
+    "client": {
+      "id": 64,
+      "title": "Fulgor"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/8/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Geberit",
+    "client": {
+      "id": 65,
+      "title": "Geberit"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/9/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Gessi",
+    "client": {
+      "id": 66,
+      "title": "Gessi"
+    },
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/10/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Gianvito Rossi",
+    "client": {
+      "id": 67,
+      "title": "Gianvito Rossi"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/11/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Giorgetti",
+    "client": {
+      "id": 68,
+      "title": "Giorgetti"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/12/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Giovanni Raspini",
+    "client": {
+      "id": 69,
+      "title": "Giovanni Raspini"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/13/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Gridiron",
+    "client": {
+      "id": 70,
+      "title": "Gridiron"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/14/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Haier",
+    "client": {
+      "id": 71,
+      "title": "Haier"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/15/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Ica Group",
+    "client": {
+      "id": 72,
+      "title": "Ica Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "IDB Group",
+    "client": {
+      "id": 73,
+      "title": "IDB Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/17/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Imasaf",
+    "client": {
+      "id": 74,
+      "title": "Imasaf"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/18/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Inglesina",
+    "client": {
+      "id": 75,
+      "title": "Inglesina"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/19/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Isa Yachts",
+    "client": {
+      "id": 76,
+      "title": "Isa Yachts"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/20/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Kemon",
+    "client": {
+      "id": 77,
+      "title": "Kemon"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/21/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Kreba",
+    "client": {
+      "id": 78,
+      "title": "Kreba"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/22/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Landi Renzo",
+    "client": {
+      "id": 79,
+      "title": "Landi Renzo"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/23/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Lega del Filo d’Oro",
+    "client": {
+      "id": 80,
+      "title": "Lega del Filo d’Oro"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/24/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Liu Jo Living",
+    "client": {
+      "id": 81,
+      "title": "Liu Jo Living"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/25/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Live Experience",
+    "client": {
+      "id": 82,
+      "title": "Live Experience"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/26/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Logical System",
+    "client": {
+      "id": 83,
+      "title": "Logical System"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/27/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Luisa Spagnoli",
+    "client": {
+      "id": 84,
+      "title": "Luisa Spagnoli"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/28/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Mail Boxes Etc.",
+    "client": {
+      "id": 85,
+      "title": "Mail Boxes Etc."
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/29/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Manas",
+    "client": {
+      "id": 86,
+      "title": "Manas"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/30/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Martinelli Luce",
+    "client": {
+      "id": 87,
+      "title": "Martinelli Luce"
+    },
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/24/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Menarini",
+    "client": {
+      "id": 88,
+      "title": "Menarini"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/32/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Minotti",
+    "client": {
+      "id": 89,
+      "title": "Minotti"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/33/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Mitsubishi Electric",
+    "client": {
+      "id": 90,
+      "title": "Mitsubishi Electric"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/34/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Mondini",
+    "client": {
+      "id": 91,
+      "title": "Mondini"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/35/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Morfeus",
+    "client": {
+      "id": 92,
+      "title": "Morfeus"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/36/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "MUSE Trento",
+    "client": {
+      "id": 93,
+      "title": "MUSE Trento"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/37/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Mutina",
+    "client": {
+      "id": 94,
+      "title": "Mutina"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/38/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Nomination",
+    "client": {
+      "id": 95,
+      "title": "Nomination"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/39/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Oasy",
+    "client": {
+      "id": 96,
+      "title": "Oasy"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/40/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Olimpia Splendid",
+    "client": {
+      "id": 97,
+      "title": "Olimpia Splendid"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/41/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Omag",
+    "client": {
+      "id": 98,
+      "title": "Omag"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/42/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Orogel",
+    "client": {
+      "id": 99,
+      "title": "Orogel"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/43/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Palazzetti",
+    "client": {
+      "id": 100,
+      "title": "Palazzetti"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/44/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Panaria Ceramica",
+    "client": {
+      "id": 101,
+      "title": "Panaria Ceramica"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/45/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Performance in Ligthing",
+    "client": {
+      "id": 102,
+      "title": "Performance in Ligthing"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/46/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Pick Up!",
+    "client": {
+      "id": 103,
+      "title": "Pick Up!"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/47/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Pieralisi Group",
+    "client": {
+      "id": 104,
+      "title": "Pieralisi Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/48/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Pietro Fiorentini",
+    "client": {
+      "id": 105,
+      "title": "Pietro Fiorentini"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/49/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "PTM",
+    "client": {
+      "id": 106,
+      "title": "PTM"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/50/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Randstad",
+    "client": {
+      "id": 107,
+      "title": "Randstad"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/51/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Real Chimica",
+    "client": {
+      "id": 108,
+      "title": "Real Chimica"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/52/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Renco",
+    "client": {
+      "id": 109,
+      "title": "Renco"
+    },
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/53/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Ripani",
+    "client": {
+      "id": 110,
+      "title": "Ripani"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/54/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Robur",
+    "client": {
+      "id": 111,
+      "title": "Robur"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/55/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Rocchetta",
+    "client": {
+      "id": 112,
+      "title": "Rocchetta"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/56/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Salice",
+    "client": {
+      "id": 113,
+      "title": "Salice"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/57/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Sampierana",
+    "client": {
+      "id": 114,
+      "title": "Sampierana"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/58/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Scavolini",
+    "client": {
+      "id": 115,
+      "title": "Scavolini"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/59/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Selle Royal",
+    "client": {
+      "id": 116,
+      "title": "Selle Royal"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/60/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_commerce",
+        "title": "Commerce"
+      }
+    ],
+    "type": [
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "SinoTech",
+    "client": {
+      "id": 117,
+      "title": "SinoTech"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/61/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Sipcam Italia",
+    "client": {
+      "id": 118,
+      "title": "Sipcam Italia"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/62/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Sipcam Oxon",
+    "client": {
+      "id": 119,
+      "title": "Sipcam Oxon"
+    },
+    "abstract": "Lorem ipsum dolor sit amet, adipiscing elit.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/63/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": true,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      }
+    ],
+    "type": [
+      {
+        "id": "3",
+        "title": "Corporate"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Sitap",
+    "client": {
+      "id": 120,
+      "title": "Sitap"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/64/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Soilmec",
+    "client": {
+      "id": 121,
+      "title": "Soilmec"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/65/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Sportmax",
+    "client": {
+      "id": 122,
+      "title": "Sportmax"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/66/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Tagina",
+    "client": {
+      "id": 123,
+      "title": "Tagina"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/67/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Targetti",
+    "client": {
+      "id": 124,
+      "title": "Targetti"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/68/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "TeamSystem",
+    "client": {
+      "id": 125,
+      "title": "TeamSystem"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/69/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_technology",
+        "title": "Technology"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Technogym",
+    "client": {
+      "id": 126,
+      "title": "Technogym"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/70/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Teuco",
+    "client": {
+      "id": 127,
+      "title": "Teuco"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/71/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "The Infré",
+    "client": {
+      "id": 128,
+      "title": "The Infré"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/72/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Tigre",
+    "client": {
+      "id": 129,
+      "title": "Tigre"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/73/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Trevi Group",
+    "client": {
+      "id": 130,
+      "title": "Trevi Group"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/74/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Tubes",
+    "client": {
+      "id": 131,
+      "title": "Tubes"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/75/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Ufuud",
+    "client": {
+      "id": 132,
+      "title": "Ufuud"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/76/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Unilever",
+    "client": {
+      "id": 133,
+      "title": "Unilever"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/77/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Valagro",
+    "client": {
+      "id": 134,
+      "title": "Valagro"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/78/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Vortice",
+    "client": {
+      "id": 135,
+      "title": "Vortice"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/79/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  },
+  {
+    "category": "project_index",
+    "template": "project_detail",
+    "title": "Yovis",
+    "client": {
+      "id": 136,
+      "title": "Yovis"
+    },
+    "abstract": "Website & Content Strategy",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/80/1024/768",
+      "alt": "Alternative text"
+    },
+    "selection": false,
+    "tag": [
+      {
+        "id": "product_category_strategy",
+        "title": "Strategy"
+      },
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      }
+    ],
+    "type": [
+      {
+        "id": "1",
+        "title": "Civic, Public & No-Profit"
+      },
+      {
+        "id": "2",
+        "title": "Consumer & Healthcare"
+      },
+      {
+        "id": "3",
+        "title": "Corporate"
+      },
+      {
+        "id": "4",
+        "title": "Design & Architecture"
+      },
+      {
+        "id": "5",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "6",
+        "title": "Food & Drink"
+      },
+      {
+        "id": "7",
+        "title": "Hospitality"
+      },
+      {
+        "id": "8",
+        "title": "Sport & Leisure"
+      },
+      {
+        "id": "9",
+        "title": "Technology & Services"
+      }
+    ]
+  }
+]

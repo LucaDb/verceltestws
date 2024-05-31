@@ -1,0 +1,477 @@
+[
+  {
+    "category": "about",
+    "template": "about",
+    "isDefault": true,
+    "title": "About",
+    "abstract": "Per consequat aliquet vel quam. Sagittis odio posuere sociosqu sollicitudin.",
+    "description": "<p>Sit eu magnis metus per ornare turpis. Pellentesque velit euismod, class litora quisque vehicula class feugiat. Libero porttitor montes ultrices orci gravida vivamus.</p><p>Lectus maecenas quis nec elit vel. Ipsum penatibus facilisi ultricies risus fames cubilia erat.</p><p>Placerat nec rhoncus porta facilisi lorem bibendum vehicula. Semper velit faucibus justo dolor potenti. Taciti eleifend hendrerit eget nullam nisi laoreet egestas.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://placehold.jp/00a2ed/000000/960x540.png?css=%7B%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%2300a2ed)%2C%20to(%2300ea4e))%22%7D"
+    },
+    "components": [
+      {
+        "schema": "intro-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "About",
+        "titleSize": "lg",
+        "description": "<p>Siamo un gruppo di <a href='#' title='agenzie digitali specializzate'>agenzie digitali specializzate</a>, organizzate intorno agli obiettivi dei nostri clienti. Attraverso il <a href='#' title='nostro metodo'>nostro metodo</a>, disegniamo e realizziamo <a href='#' title='percorsi digitali'>percorsi digitali</a> per accompagnare i brand ad esprimere tutto il loro potenziale sul mercato globale, <a href='#' title='prendendocis cura'>prendendocis cura</a> di ogni piccolo dettaglio. Amiamo lavorare per <a href='#'>i clienti e per le persone</a> in cui crediamo.</p>"
+      },
+      {
+        "schema": "media-box-1",
+        "topSpace": true,
+        "innerSpace": false,
+        "wrapper": false,
+        "layout": "horizontal",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/6/1920/1080",
+          "alt": "lorem"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "small-enough",
+          "title": "Small enough, big to serve"
+        },
+        "schema": "title-box-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "title": "Small enough to care Big enough to serve",
+        "abstract": "Piccoli abbastanza da mantenere un approccio sartoriale e su misura sul cliente, grandi abbastanza da poter offrire un’orchestra di agenzie altamente specializzate e dalle competenze verticali. Come lo rendiamo possibile?",
+        "media": {
+          "src": "/assets/animations/ai-based-insight.json",
+          "type": "json"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "il-metodo",
+          "title": "Il metodo"
+        },
+        "schema": "text-combo-slider-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "mediaRadius": true,
+        "title": "Il metodo.",
+        "abstract": "Il cuore della nostra web agency è qui, l'anima ovunque si parli di digitale. Le sedi Websolute sono distribuite in 10 città tra cui: <a href='/sedi/pesaro' title='Pesaro'>Pesaro</a>, <a href='/sedi/milano' title='Milano'>Milano</a>, <a href='/sedi/roma' title='Roma'>Roma</a>, <a href='/sedi/treviso' title='Treviso'>Treviso</a>, <a href='/sedi/pisa' title='Pisa'>Pisa</a>, <a href='/sedi/ancona' title='Ancona'>Ancona</a>, <a href='/sedi/salerno' title='Salerno'>Salerno</a>, <a href='/sedi/padova' title='Padova'>Padova</a>, <a href='/sedi/ascoli-piceno' title='Ascoli Piceno'>Ascoli Piceno</a>, <a href='/sedi/shangai' title='Shangai'>Shangai</a>. Insieme, lavorano per risolvere sfide diverse nel panorama digitale ma agendo con gli stessi metodi e cultura.",
+        "items": [
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Ascoltare",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Interpretare",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Fare",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Misurare",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "text-combo-slider-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "mediaRadius": true,
+        "eyelet": "IL PROCESSO",
+        "description": "Dalla strategia digitale all’esecuzione in tutti i touchpoint.",
+        "items": [
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Consulenza strategica",
+            "abstract": "Cosa può fare il digitale per il nostro business? Come competere nell’era digitale? Come valorizzare il brand, trovare clienti, generare business? Come impatta tutto questo con i processi interni ed esterni all’azienda?",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Project management",
+            "abstract": "Analisi tecnica e organizzativa, pianificazione delle attività, creazione dei team di lavoro, supervisione costante ai processi esecutivi per rispetto budget e tempi.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Execution & gestione",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "eyelet": "DOVE SIAMO.",
+            "title": "Misurare",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "description": "Description Dolor Sit Amet Lorem",
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "il-gruppo",
+          "title": "Il gruppo"
+        },
+        "schema": "spotlight-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "layout": "line",
+        "title": "Il gruppo.",
+        "abstract": "Offriamo competenze verticali in Strategia Digitale, Brand, Marketing, Commerce, Tecnologia e Formazione.",
+        "companies": [
+          {
+            "id": 1,
+            "title": "websolute"
+          },
+          {
+            "id": 2,
+            "title": "xplace"
+          },
+          {
+            "id": 3,
+            "title": "shinteck"
+          },
+          {
+            "id": 4,
+            "title": "w.academy"
+          },
+          {
+            "id": 5,
+            "title": "moca"
+          },
+          {
+            "id": 6,
+            "title": "dna"
+          },
+          {
+            "id": 7,
+            "title": "more"
+          }
+        ]
+      },
+      {
+        "schema": "text-columns-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": true,
+        "title": "I numeri",
+        "abstract": "Nel settore, la catena del valore vede i designer e gli architetti creare idee e i progetti e, allo stesso tempo, influenzare le scelte di acquisto dei consumatori; i produttori materializzare queste visioni; i rivenditori portare i prodotti al consumatore finale. E, infine, i clienti stessi, motore del mercato con le loro preferenze, dubbi, risposte.",
+        "description": "Description Dolor Sit Amet Lorem",
+        "items": [
+          {
+            "counter": 10,
+            "title": "Sedi",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          },
+          {
+            "counter": 150,
+            "title": "Professionisti",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          },
+          {
+            "counter": 250,
+            "title": "Clienti",
+            "abstract": "Description Dolor Sit Amet Lorem"
+          }
+        ]
+      },
+      {
+        "schema": "highlights-1",
+        "colorScheme": "dark",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "I nostri clienti.",
+        "abstract": "Con la nostra offerta abbiamo costruito partnership durature con i brand più ambiziosi. Amiamo lavorare per i clienti e per le persone in cui crediamo.",
+        "clients": [
+          {
+            "id": 1,
+            "title": "Balsen"
+          },
+          {
+            "id": 2,
+            "title": "Dorelan"
+          },
+          {
+            "id": 3,
+            "title": "Fileni"
+          },
+          {
+            "id": 4,
+            "title": "Luisa Spagnoli"
+          },
+          {
+            "id": 5,
+            "title": "Giovanni Raspini"
+          },
+          {
+            "id": 6,
+            "title": "Landi Renzo"
+          },
+          {
+            "id": 7,
+            "title": "Lorem"
+          },
+          {
+            "id": 8,
+            "title": "Ipsum"
+          }
+        ],
+        "navs": [
+          {
+            "type": "link",
+            "title": "Scopri tutti i clienti",
+            "href": "/progetti",
+            "target": "_self"
+          },
+          {
+            "type": "link",
+            "title": "Storie di successo",
+            "href": "/progetti",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "quotazione",
+          "title": "Quotazione"
+        },
+        "schema": "text-combo-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "dots": false,
+        "mediaRadius": true,
+        "swap": true,
+        "eyelet": "IN BORSA.",
+        "title": "La quotazione.",
+        "abstract": "Puntiamo ad acquisire società italiane di piccole e medie dimensioni, trasversali al nostro core business, che possano garantire un aumento del valore aggiunto che offriamo ai nostri clienti.",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/600/600",
+          "alt": "Catena del valore"
+        },
+        "mediaSmall": [
+          {
+            "media": {
+              "type": "image",
+              "src": "https://placehold.jp/225x50.png",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://placehold.jp/40x40.png",
+              "alt": "Catena del valore"
+            }
+          }
+        ],
+        "navs": [
+          {
+            "type": "link",
+            "title": "Vai a investors relations",
+            "href": "/investors-relations",
+            "target": "_self"
+          },
+          {
+            "type": "link",
+            "title": "Lorem ipsum",
+            "href": "/investors-relations",
+            "target": "_self"
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "dove-siamo",
+          "title": "Dove siamo"
+        },
+        "schema": "text-combo-1",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "dots": false,
+        "mediaRadius": true,
+        "swap": false,
+        "eyelet": "DOVE SIAMO.",
+        "title": "Le Sedi.",
+        "abstract": "Il cuore della nostra web agency è qui, l'anima ovunque si parli di digitale. Le sedi Websolute sono distribuite in 10 città tra cui: <a href='/sedi/pesaro' title='Pesaro'>Pesaro</a>, <a href='/sedi/milano' title='Milano'>Milano</a>, <a href='/sedi/roma' title='Roma'>Roma</a>, <a href='/sedi/treviso' title='Treviso'>Treviso</a>, <a href='/sedi/pisa' title='Pisa'>Pisa</a>, <a href='/sedi/ancona' title='Ancona'>Ancona</a>, <a href='/sedi/salerno' title='Salerno'>Salerno</a>, <a href='/sedi/padova' title='Padova'>Padova</a>, <a href='/sedi/ascoli-piceno' title='Ascoli Piceno'>Ascoli Piceno</a>, <a href='/sedi/shangai' title='Shangai'>Shangai</a>. Insieme, lavorano per risolvere sfide diverse nel panorama digitale ma agendo con gli stessi metodi e cultura.",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/5/600/600",
+          "alt": "Catena del valore"
+        }
+      },
+      {
+        "anchor": {
+          "hash": "cultura-aziendale",
+          "title": "La nostra cultura"
+        },
+        "schema": "circular-slider",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "eyelet": "CULTURA AZIENDALE.",
+        "title": "La nostra cultura",
+        "abstract": "Vorremmo che lavorare in Websolute sia il mix perfetto di ciò che amiamo fare, con le persone con cui ci piace lavorare.",
+        "items": [
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/1/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/2/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/3/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/4/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/5/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/6/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/7/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/8/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/9/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/10/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/11/600/600",
+              "alt": "Catena del valore"
+            }
+          },
+          {
+            "media": {
+              "type": "image",
+              "src": "https://picsum.photos/id/12/600/600",
+              "alt": "Catena del valore"
+            }
+          }
+        ],
+        "navs": [
+          {
+            "type": "link",
+            "title": "Scopri di più",
+            "href": "/progetti",
+            "target": "_self"
+          },
+          {
+            "type": "link",
+            "title": "Storie di successo",
+            "href": "/progetti",
+            "target": "_self"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "header.menu",
+    "text": "menu"
+  },
+  {
+    "id": "footer.copy",
+    "text": "websolute spa • P.I. 02063520411, Capitale sociale Eur 194.084,34 i.v., REA PU n.151254 • Strada della Campanara, 15 61122 Pesaro (PU) • TEL: 0721.411112 • FAX: 0721.430007"
+  },
+  {
+    "id": "footer.privacy",
+    "text": "Privacy"
+  },
+  {
+    "id": "footer.cookies",
+    "text": "Cookies"
+  },
+  {
+    "id": "footer.social",
+    "text": "Non sei ancora pronto? Inizia a conoscerci:"
+  },
+  {
+    "id": "view.gallery",
+    "text": "Vista galleria"
+  },
+  {
+    "id": "view.grid",
+    "text": "Vista griglia"
+  },
+  {
+    "id": "showmore.generic",
+    "text": "Scopri"
+  },
+  {
+    "id": "showmore.more",
+    "text": "Scopri di più"
+  },
+  {
+    "id": "showmore.companies",
+    "text": "Scopri il gruppo"
+  },
+  {
+    "id": "showmore.posts",
+    "text": "Tutti gli articoli"
+  },
+  {
+    "id": "showmore.projects",
+    "text": "Tutti i progetti"
+  },
+  {
+    "id": "discovermore.projects",
+    "text": "Scopri tutti i progetti"
+  },
+  {
+    "id": "discovermore.industries",
+    "text": "Scopri tutte le industries"
+  },
+  {
+    "id": "discovermore.about",
+    "text": "Scopri il gruppo"
+  },
+  {
+    "id": "share.post",
+    "text": "Condividi questo articolo:"
+  },
+  {
+    "id": "archived",
+    "text": "Archiviato"
+  },
+  {
+    "id": "notfound.title",
+    "text": {
+      "en": "404",
+      "it": "404"
+    }
+  },
+  {
+    "id": "notfound.abstract",
+    "text": {
+      "en": "Oops, we couldn't connect the dots",
+      "it": "Ops, non siamo riusciti a unire i punti"
+    }
+  },
+  {
+    "id": "navigation.home",
+    "text": {
+      "en": "Back to the home",
+      "it": "Torna alla home"
+    }
+  },
+  {
+    "id": "navigation.back",
+    "text": {
+      "en": "Back",
+      "it": "Indietro"
+    }
+  },
+  {
+    "id": "error.required",
+    "text": {
+      "en": "Required field",
+      "it": "Campo obbligatorio"
+    }
+  },
+  {
+    "id": "error.email",
+    "text": {
+      "en": "Invalid email",
+      "it": "Email non valida"
+    }
+  },
+  {
+    "id": "error.match",
+    "text": {
+      "en": "Fields do not match",
+      "it": "I campi non corrispondono"
+    }
+  },
+  {
+    "id": "error.exhist",
+    "text": {
+      "en": "This value is already in use",
+      "it": "Questo valore è già in uso"
+    }
+  },
+  {
+    "id": "form.submit",
+    "text": {
+      "en": "Send",
+      "it": "Invia"
+    }
+  },
+  {
+    "id": "form.reset",
+    "text": {
+      "en": "Reset",
+      "it": "Annulla"
+    }
+  },
+  {
+    "id": "form.test",
+    "text": {
+      "en": "Test",
+      "it": "Test"
+    }
+  },
+  {
+    "id": "form.subscribe",
+    "text": {
+      "en": "Subscribe",
+      "it": "Iscrivimi"
+    }
+  },
+  {
+    "id": "form.subscribe.success",
+    "text": {
+      "en": "Thanks for subscribing to the newsletter!",
+      "it": "Grazie per esserti iscritto alla newsletter!"
+    }
+  },
+  {
+    "id": "email.optIn.title",
+    "text": {
+      "en": "Complete the registration for the Websolute newsletter",
+      "it": "Completa la registrazione alla newsletter Websolute"
+    }
+  },
+  {
+    "id": "email.optIn.abstract",
+    "text": {
+      "en": "Verify your email address by clicking the button below:",
+      "it": "Verifica il tuo indirizzo email cliccando il bottone qui sotto:"
+    }
+  },
+  {
+    "id": "email.optIn.cta",
+    "text": {
+      "en": "Confirm your email address",
+      "it": "Conferma il tuo indirizzo email"
+    }
+  },
+  {
+    "id": "email.goToWebsite",
+    "text": {
+      "en": "Go to website",
+      "it": "Vai al sito"
+    }
+  },
+  {
+    "id": "email.unsubscribe",
+    "text": {
+      "en": "unsubscribe",
+      "it": "annulla sottoscrizione"
+    }
+  },
+  {
+    "id": "email.viewOnWeb",
+    "text": {
+      "en": "view on web",
+      "it": "vedi nel browser"
+    }
+  }
+]

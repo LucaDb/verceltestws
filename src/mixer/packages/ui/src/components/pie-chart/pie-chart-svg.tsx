@@ -1,0 +1,25 @@
+import { motion } from 'framer-motion';
+import React from 'react';
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export const PieChartSvg = React.forwardRef<SVGSVGElement, any>(({ ...props }, ref) => {
+
+  return (
+    <motion.svg {...props} ref={ref} width="100%" height="100%" viewBox="0 0 452 454" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <motion.path d="M327.79 30.2842C332.682 33.1306 334.304 39.2587 331.548 44.0359L244.664 194.648C239.551 203.511 226.002 199.884 226.002 189.651V15.7698C226.002 10.2469 230.483 5.74623 236 5.99213C268.995 7.46264 300.108 16.1751 327.79 30.2842Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeMiterlimit="10" strokeLinejoin="round" />
+      <motion.path d="M412.229 107.853C415.206 112.505 413.551 118.636 408.769 121.4L258.318 208.343C249.459 213.462 239.54 203.55 244.652 194.688L331.529 44.0882C334.292 39.2983 340.432 37.6412 345.087 40.6269C372.026 57.9076 394.97 80.8805 412.229 107.853Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M446.778 217.004C447.023 222.521 442.522 227.002 436.999 227.002H263.292C253.063 227.002 249.432 213.462 258.288 208.344L408.77 121.38C413.552 118.617 419.69 120.243 422.234 125.145C436.613 152.85 445.311 183.987 446.778 217.004Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M436.999 227.002C442.522 227.002 447.023 231.483 446.777 237C445.31 270.017 436.613 301.151 422.234 328.855C419.69 333.757 413.551 335.383 408.77 332.62L258.292 245.66C249.436 240.242 253.067 227.002 263.296 227.002H436.999Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeMiterlimit="10" strokeLinejoin="round" />
+      <motion.path d="M409.124 332.206C413.906 334.969 415.564 341.103 412.595 345.759C394.833 373.618 371.75 396.228 345.458 413.023C340.808 415.994 334.683 414.332 331.924 409.548L245.044 258.926C239.931 250.061 249.84 240.146 258.697 245.265L409.124 332.206Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeMiterlimit="10" strokeLinejoin="round" />
+      <motion.path d="M331.529 409.975C334.285 414.752 332.662 420.88 327.77 423.426C300.093 437.829 268.987 446.538 236 448.008C230.483 448.254 226.002 443.753 226.002 438.23V264.357C226.002 254.123 239.552 250.496 244.665 259.361L331.529 409.975Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M226.208 438.499C226.208 443.64 222.047 447.829 216.916 447.618C185.309 446.316 153.557 438.181 123.865 422.623C119.312 420.237 117.794 414.521 120.364 410.065L208.846 256.65C213.606 248.397 226.21 251.777 226.209 261.308L226.208 438.499Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M193.699 245.677C202.558 240.258 212.477 250.47 207.365 259.332L120.489 409.931C117.725 414.721 111.585 416.378 106.931 413.392C79.9909 396.111 57.0451 373.136 39.7904 346.166C36.8143 341.514 38.4697 335.384 43.2512 332.62L193.699 245.677Z" fillOpacity="0.8" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M188.707 227.002C198.936 227.002 202.567 240.242 193.711 245.66L43.2325 332.621C38.451 335.384 32.3134 333.758 29.769 328.857C15.3865 301.152 6.6889 270.017 5.2217 237C4.97652 231.483 9.47715 227.002 15 227.002H188.707Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M193.715 208.341C202.571 213.459 198.94 226.999 188.711 226.999L15.0002 227.002C9.47724 227.002 4.97653 222.521 5.22171 217.004C6.68892 183.987 15.3865 152.849 29.769 125.144C32.3134 120.242 38.451 118.617 43.2324 121.38L193.715 208.341Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeMiterlimit="10" strokeLinejoin="round" />
+      <motion.path d="M207.375 194.691C212.487 203.554 202.567 213.465 193.709 208.346L43.252 121.399C38.4702 118.636 36.8148 112.505 39.7913 107.853C57.0523 80.8757 80.0027 57.8964 106.95 40.6143C111.604 37.6291 117.744 39.2867 120.207 44.0768L207.375 194.691Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+      <motion.path d="M216.002 5.99213C221.519 5.74623 226 10.2469 226 15.7698V189.644C226 199.878 212.45 203.505 207.337 194.64L120.469 44.0257C117.713 39.248 119.336 33.1196 124.229 30.2738C151.909 16.1713 183.015 7.46234 216.002 5.99213Z" fillOpacity="0.2" fill="white" stroke="currentColor" strokeWidth="10" strokeLinejoin="round" />
+    </motion.svg>
+  );
+});
+
+PieChartSvg.displayName = 'PieChartSvg';

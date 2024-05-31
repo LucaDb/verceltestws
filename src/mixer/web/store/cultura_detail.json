@@ -1,0 +1,1098 @@
+[
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Progetti web internazionali e i primi 5 passi dentro la SEO internazionale.",
+    "abstract": "Proviamo a tracciare i primi 5 passi di un progetto web con particolare attenzione alla SEO internazionale.",
+    "description": "<p>Placerat porta auctor montes natoque mollis natoque. Ad sagittis vestibulum justo dis vitae auctor consectetur viverra.</p><p>Erat eu ridiculus, consequat neque maecenas molestie inceptos non. Aliquet praesent nullam natoque sapien justo. Vehicula eleifend tempus vel dapibus per lacus.</p><p>Neque laoreet tempor arcu malesuada dui viverra id. Eros ultricies proin morbi litora quam platea vulputate risus.</p>",
+    "author": {
+      "firstName": "Francesca",
+      "lastName": "Ondedei",
+      "fullName": "Francesca Ondedei",
+      "role": {
+        "title": "SEO Specialist"
+      }
+    },
+    "type": {
+      "id": "webinar",
+      "title": "Webinar"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "big",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/1920/900"
+    },
+    "thumb": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/800/600"
+    },
+    "components": [
+      {
+        "schema": "cultura-content",
+        "description": "<p>Un progetto web internazionale può assumere i contorni di un viaggio, a volte con qualche ostacolo imprevisto da superare. Proviamo a tracciarne le prime 5 tappe iniziali con un’attenzione particolare alla seo.</p><p>Se stai progettando un sito web internazionale significa che intendi presentare i tuoi prodotti e/o servizi a diversi mercati commerciali o geografici, utilizzando lingue diverse per veicolare il tuo messaggio.</p><p>Ci sono sicuramente molte strade per raggiungere questo obiettivo, nonché tantissimi mezzi (leggi piattaforme) che possono ampliare il raggio di azione della tua azienda.</p><p>Esistono però degli elementi imprescindibili da valutare in fase iniziale, che è bene scegliere con attenzione, perché diventeranno poi elementi trainanti del progetto e avranno un peso determinante sia nel budget complessivo che nella resa.</p><p>Vediamoli insieme.</p>"
+      },
+      {
+        "schema": "cultura-image",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/25/1920/900",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "title": "Il Dominio.",
+        "description": "<p>Un sito web internazionale può essere veicolato su web in vari modi:</p><ol><li>Per dominio di primo livello nazionale (ccTLD): <a href='https://zalando.it' target='_blank'>zalando.it</a>, <a href='https://zalando.de' target='_blank'>zalando.de</a>, <a href='https://zalando.fr' target='_blank'>zalando.fr</a></li><li>Per sottocartelle: <a href='ikea.com/it/it'>ikea.com/it/it</a>, <a href='ikea.com/de/de'>ikea.com/de/de</a>, <a href='ikea.com/fr/fr'>ikea.com/fr/fr</a></li><li>Per sottodomini: <a href='es.hoteles.com' target='_blank'>es.hoteles.com</a>, <a href='fr.hoteles.com' target='_blank'>fr.hoteles.com</a>, <a href='it.hoteles.com' target='_blank'>it.hoteles.com</a></li></ol><p>Come è chiaro dagli esempi riportati non esiste una soluzione migliore delle altre e ogni azienda dovrebbe decidere in base alla dimensione del progetto e alla quantità e qualità dei suoi domini.</p><p>A patto che si disponga già di un dominio .com riconoscibile, la soluzione più immediata è la seconda, in cui le sottocartelle indicano la lingua e il paese. Ma non può essere univoca.</p><p>Esistono mercati particolari infatti, in cui presentarsi con un dominio di primo livello nazionale fa ancora la differenza agli occhi degli utenti e, di conseguenza, per i motori di ricerca.</p><p>Questi mercati sono:</p><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-youtube",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "src": "https://www.youtube.com/embed/75KucS9J3Yk?si=78owxHgkwAgS8Yje"
+      },
+      {
+        "schema": "cultura-content",
+        "title": "La lingua e le traduzioni.",
+        "description": "<p>Si sente dire troppo spesso che la lingua inglese sia ormai conosciuta da tutti, è opportuno fare dei chiarimenti in merito.</p><blockquote><p>Seppur l’inglese sia tra le lingue più parlate copre solo ¼ della popolazione internet mondiale. Al secondo posto infatti troviamo il mandarino, dove la Cina stessa è il paese con il maggior numero di utenti, con il suo 52,2%. Al terzo posto per lingua e secondo per utenza è l’India.</p></blockquote><p>Insomma, ricordiamo sempre il detto: «Se non si legge, non si acquista», e infatti come ci ricorda la ricerca della CSA Research, il 75% degli utenti preferisce fare acquisti online su siti in lingua madre e nel concreto il 60% non ha mai acquistato o lo ha fatto solo di rado da siti in lingua inglese (il campione della ricerca è, ovviamente, costituito da utenti non madrelingua inglesi).</p><p>Se vogliamo che il nostro progetto internazionale sia veramente efficace poi, servirà più di una semplice traduzione delle pagine da una lingua all’altra. Ogni contenuto del sito dovrà essere adattato al modo in cui il mercato si riferisce al nostro tipo di prodotti nella sua lingua e alle caratteristiche di comunicazione del paese, nonché al preciso target di riferimento.</p><p>Racconto sempre un aneddoto per far comprendere questo aspetto.</p><p>Ho lavorato al mio primo SEO internazionale 18 anni fa per una azienda che produceva vasche idromassaggio. Ebbi ottimi risultati in termini di visite organiche da tutti i mercati interessati eccetto dagli Stati Uniti… eppure ero in prima pagina su Google.com con l’esatta traduzione anglofona: hydromassage bathtubs.</p><p>La ragione del mio insuccesso fu causata proprio dalla mancata valorizzazione di questo aspetto: nessuno negli Stati Uniti usava quella keyword perchè in America le vasche idromassaggio sono chiamate con il nome del loro produttore: Jacuzzi!</p><p>Bisogna tenere sempre in considerazione che un pubblico diverso interpreta in modo diverso gli stessi contenuti, parole, immagini e colori. Anche lo stesso contenuto, destinato a chi parla la stessa lingua in paesi diversi, potrebbe far nascere fraintendimenti.</p>"
+      },
+      {
+        "schema": "cultura-callout",
+        "banner": {
+          "title": "Hai bisogno di supporto per la tua strategia SEO?",
+          "description": "<p><span>Scopri come possiamo aiutarti su questo e altri servizi.</span></p>",
+          "colorData": {
+            "title": "Verde",
+            "className": "green"
+          },
+          "navs": [
+            {
+              "type": "page",
+              "page": {
+                "value": 5,
+                "relationTo": "product_detail"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "schema": "cultura-youtube",
+        "layout": "aside",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "src": "https://www.youtube.com/embed/75KucS9J3Yk?si=78owxHgkwAgS8Yje"
+      },
+      {
+        "schema": "cultura-content",
+        "title": "I Mercati.",
+        "description": "<p>Esistono mercati geografico/territoriali (Stati) e mercati commerciali.</p><p>L’Europa è un mercato commerciale, è un insieme di Stati; Middle East, Far East, Asia, WW, sono tutti mercati commerciali che comprendono molti Stati diversi tra loro, per lingua, cultura, etnia…ma per i Google database esistono solo gli Stati, perché esistono appunto le lingue, le culture e le etnie…</p>"
+      },
+      {
+        "schema": "cultura-content",
+        "title": "Punti di Accesso.",
+        "description": "<p>Nella creazione di modelli di navigazione a livello mondiale, bisogna prestare particolare attenzione alla progettazione dei punti di accesso internazionali, ovvero la scelta del mercato e della lingua in cui la piattaforma è disponibile, che dovranno essere semplici e intuitivi in qualsiasi lingua e soprattutto mercato.</p><p>Spesso si dà poca importanza a questo aspetto supportati dal fatto che potremmo mostrare ad ogni utente tramite il riconoscimento del suo IP di navigazione, l’esatto contenuto a lui destinato.</p><p>L’utilizzo di questa tecnica però è sconsigliata, o comunque relegata alla sola home page, perché troppo imprecisa e perché impedirebbe ai motori di ricerca di indicizzare correttamente il sito, Google ha infatti implementato specifici tag per risolvere questa esigenza.</p>"
+      },
+      {
+        "schema": "cultura-content",
+        "title": "Le Performance.",
+        "description": "<p>Quanto detto fino ad ora rientra nel contesto del miglioramento della performance, ovvero l’interazione del singolo utente con la pagina web.</p><p>Oggi però questa parola ha grande valenza per i motori di ricerca, Google in primis, perché su di essa gravano i parametri del core web vital, un significativo update che ha messo in primo piano la relazione che la pagina riesce a creare con l’utente.</p><p>A nessuno piace perdere tempo, ed è quindi logico che un ruolo di spicco tra le performance sia la velocità di caricamento della pagina, opzione possibile in un progetto web internazionale solo grazie all’attivazione di un sistema di rete di server localizzata in diverse aree geografiche (CDN), in modo da consentire rapidità di caricamento delle pagine di un sito in ogni angolo della terra (o quasi).</p><p>Pianificare, quantificare e stabilire questi 5 aspetti in fase iniziale può certamente essere utile per attenzionare i corretti stakeholder del progetto, permettere un percorso lineare di ampliamento digitale e riportare in azienda informazioni utili anche ad altri reparti.</p>"
+      },
+      {
+        "schema": "cultura-callout",
+        "banner": {
+          "title": "Pensi che questo articolo sia interessante?",
+          "description": "<p><span>Iscriviti alla nostra newsletter. Promesso, non più di 2 email al mese.</span></p>",
+          "colorData": {
+            "title": "Ciano",
+            "className": "cyan"
+          },
+          "navs": [
+            {
+              "type": "page",
+              "page": {
+                "value": 1,
+                "relationTo": "contact"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Arriva Google Analytics 4: le implicazioni in 6 punti.",
+    "abstract": "Facciamo chiarezza, scopriamone le implicazioni e qualche consiglio su come agire.",
+    "description": "<p>Libero pretium nam, tristique non vivamus mattis ex habitant. Nascetur ultricies ad iaculis tortor curabitur morbi nunc.</p><p>Lobortis taciti porta leo condimentum phasellus. Imperdiet euismod velit ridiculus, dictum ac facilisis nascetur velit. Ridiculus vel adipiscing ex ultrices molestie proin suspendisse.</p><p>Commodo dapibus ridiculus, porta felis suspendisse nulla arcu rutrum. Aliquam lacus lacinia cubilia donec parturient diam. Ipsum iaculis lacinia litora condimentum placerat pharetra rhoncus sagittis.</p>",
+    "author": {
+      "firstName": "Giacomo",
+      "lastName": "Tacchi",
+      "fullName": "Giacomo Tacchi",
+      "role": {
+        "title": "Analytics Specialist"
+      }
+    },
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/1/1920/900",
+      "alt": "lorem"
+    },
+    "components": [
+      {
+        "schema": "cultura-content",
+        "description": "<h4>1. Dal 1° luglio 2023 Universal analytics smetterà di funzionare e non sarà più disponibile nessun dato storico installato su di esso.</h4><p>Quindi? E’ necessario il passaggio a Google analytics 4 ed implementarlo appena possibile, installando le proprietà di Google analytics 4 su tutti gli account già esistenti in modo tale da poter possedere dal 1° luglio 2023 i dati per un confronto storico anno su anno.</p>"
+      },
+      {
+        "schema": "cultura-callout",
+        "banner": {
+          "title": "Pensi che questo articolo sia interessante?",
+          "description": "<p><span>Iscriviti alla nostra newsletter. Promesso, non più di 2 email al mese.</span></p>",
+          "colorData": {
+            "title": "Ciano",
+            "className": "black"
+          },
+          "navs": [
+            {
+              "type": "page",
+              "page": {
+                "value": 1,
+                "relationTo": "contact"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>2. Il cambiamento principale del passaggio da Universal analytics a Google analytics 4 sarà a livello mentale.</h4><p>Cosa significa? Cambierà l’approccio alla piattaforma che diventerà più complesso e sarà quindi più orientato ai data analyst e ai web analytics specialist.</p>"
+      },
+      {
+        "schema": "cultura-slider",
+        "title": "In use",
+        "items": [
+          {
+            "title": "Masseria Trullo di Pezza",
+            "media": {
+              "src": "https://picsum.photos/id/4/1920/1024",
+              "type": "image"
+            }
+          },
+          {
+            "title": "Architect's Office",
+            "media": {
+              "src": "https://picsum.photos/id/6/800/1024",
+              "type": "image"
+            }
+          },
+          {
+            "title": "House in Paris",
+            "media": {
+              "src": "https://picsum.photos/id/5/1920/1024",
+              "type": "image"
+            }
+          },
+          {
+            "title": "Villa Gea",
+            "media": {
+              "src": "https://picsum.photos/id/7/1920/1024",
+              "type": "image"
+            }
+          },
+          {
+            "title": "Malesherbes",
+            "media": {
+              "src": "https://picsum.photos/id/8/800/1024",
+              "type": "image"
+            }
+          },
+          {
+            "title": "The Social House",
+            "media": {
+              "src": "https://picsum.photos/id/9/800/1024",
+              "type": "image"
+            }
+          }
+        ]
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-video",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "layout": "default",
+        "thumb": {
+          "type": "image",
+          "src": "https://picsum.photos/id/2/1920/900",
+          "alt": "lorem"
+        },
+        "media": {
+          "src": "/video/websolute-intro.mp4",
+          "type": "video"
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>3. I cambiamenti da sottolineare.</h4><ul><li>Nuova interfaccia e nuova struttura dell’account</li><li>I dati saranno raccolti attraverso tre data stream: web, iOs o Android</li><li>Sarà User centric</li></ul>"
+      },
+      {
+        "schema": "cultura-image",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/3/1920/900",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>4. Google Analytics 4 è uno strumento più personalizzabile, si potranno combinare i dati tra sito web ed applicazioni.</h4><p>L’indirizzo Ip Analytics verrà anonimizzato di default in linea con le nuove normative europee.</p>"
+      },
+      {
+        "schema": "cultura-callout",
+        "banner": {
+          "title": "Hai bisogno di supporto su Google Analytics?",
+          "description": "<p><span>Scopri come possiamo aiutarti su questo e altri servizi.</span></p>",
+          "colorData": {
+            "title": "Ciano",
+            "className": "cyan"
+          },
+          "navs": [
+            {
+              "type": "page",
+              "page": {
+                "value": 1,
+                "relationTo": "product_detail"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>5. I limiti di Google Analytics 4.</h4><ul><li>Il numero di eventi, dimensioni e metriche customizzabili è limitato</li><li>Tempi di attesa per visualizzazione dei dati è di 24 H</li><li>Data retention max 14 mesi</li><li>Non è possibile fare analisi veloci</li><li>I vecchi dati della versione precedente di Google analytics saranno consultabili fino al 31 dicembre 2023</li></ul>"
+      },
+      {
+        "schema": "cultura-image",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "layout": "aside",
+        "media": {
+          "type": "image",
+          "src": "https://picsum.photos/id/4/1920/900",
+          "alt": "lorem"
+        }
+      },
+      {
+        "schema": "cultura-content",
+        "description": "<h4>6. Per effettuare il passaggio da Universal analytics a Google Analytics occorre creare una nuova proprietà che inizierà a raccogliere i dati da zero.</h4><p>Non è possibile effettuare un upgrade da Universal analytics a Google analytics 4.</p><p>È possibile e consigliato creare da ora una proprietà parallela in modo da raccogliere i dati in entrambe le versioni ed essere pronti dal 1° luglio 2023.</p>"
+      }
+    ]
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "S1 - E18 Influencer Marketing: per chi, come e perché?",
+    "abstract": "Non convallis curae vitae sodales ultrices aptent.",
+    "description": "<p>Massa euismod nisi inceptos auctor ad. Libero mauris phasellus facilisis hendrerit penatibus. Felis augue curabitur habitasse, massa placerat facilisi.</p><p>Quisque nec quisque, quis nascetur pellentesque iaculis auctor tristique. Fusce eget mus, felis elementum leo porta sem.</p><p>Molestie volutpat laoreet venenatis non nostra magna augue. Ut morbi class consequat suscipit hac arcu nullam cubilia. Facilisi augue id hac curae finibus etiam.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/4/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Progetti web internazionali e i primi 5 passi dentro la SEO internazionale.",
+    "abstract": "Ultrices scelerisque iaculis blandit platea varius. Tempor nibh facilisi elit est.",
+    "description": "<p>Platea pellentesque urna aliquam himenaeos varius. In semper ridiculus consectetur quisque eros eu.</p><p>Cursus sit accumsan montes duis turpis mauris facilisis. Auctor a nisi justo quam tortor.</p><p>Viverra tincidunt praesent, morbi auctor non consequat augue morbi. Luctus adipiscing donec pretium neque dignissim habitant aliquet maximus. Gravida pulvinar varius vulputate ridiculus, dictum phasellus elementum.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/5/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "LIU JO Living. Nuovo posizionamento per generare più interesse nei clienti.",
+    "abstract": "Tellus suspendisse fringilla lacus est.",
+    "description": "<p>Felis varius mollis donec eros ultrices phasellus. Nascetur ridiculus efficitur malesuada fames dis aliquam hendrerit felis.</p><p>Nisl taciti hendrerit arcu varius id. Rhoncus eros vehicula sapien fringilla sapien phasellus nascetur.</p><p>Condimentum montes integer luctus consequat convallis maecenas laoreet. Dignissim taciti vulputate condimentum maecenas suspendisse laoreet netus maecenas. Maecenas eu penatibus massa vivamus lacus ad mattis ante.</p>",
+    "type": {
+      "id": "webinar",
+      "title": "Webinar"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/6/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Vendere sui marketplace",
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Giallo",
+      "className": "yellow"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "LIU JO Living. Nuovo posizionamento per generare più interesse nei clienti.",
+    "abstract": "Tellus suspendisse fringilla lacus est.",
+    "description": "<p>Felis varius mollis donec eros ultrices phasellus. Nascetur ridiculus efficitur malesuada fames dis aliquam hendrerit felis.</p><p>Nisl taciti hendrerit arcu varius id. Rhoncus eros vehicula sapien fringilla sapien phasellus nascetur.</p><p>Condimentum montes integer luctus consequat convallis maecenas laoreet. Dignissim taciti vulputate condimentum maecenas suspendisse laoreet netus maecenas. Maecenas eu penatibus massa vivamus lacus ad mattis ante.</p>",
+    "type": {
+      "id": "webinar",
+      "title": "Webinar"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/6/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Il metaverso: il trend 2022 del digital marketing.",
+    "abstract": "Adipiscing ultrices condimentum mus.",
+    "description": "<p>Velit parturient et commodo nostra dignissim. Habitasse sit leo turpis gravida quisque pulvinar a laoreet. Tincidunt enim ac ridiculus interdum vitae sapien maecenas amet.</p><p>Ornare sollicitudin praesent semper scelerisque gravida quisque erat interdum. Interdum lorem fames velit nisl a blandit montes. Arcu pharetra leo, elit ad malesuada varius class torquent.</p><p>Netus eget morbi elit potenti montes felis habitasse ligula. Dictum elementum tincidunt condimentum suspendisse, eleifend etiam et lacinia.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/7/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Quali sono i nuovi modelli di business per aumentare le vendite online.",
+    "abstract": "Sed gravida elementum neque lorem.",
+    "description": "<p>Ac libero volutpat, praesent porttitor lacus ullamcorper vel. Consequat varius at, cras mattis tempus luctus. Donec pulvinar natoque libero dictum cubilia fusce.</p><p>Cursus leo nam rutrum taciti viverra suscipit neque maecenas. Mollis iaculis tempus mi rhoncus conubia odio ipsum sociosqu. Hendrerit morbi porta eu lobortis quam aptent?</p><p>Sit class litora mus purus malesuada tempor maecenas. Mollis venenatis nunc gravida, consequat curae felis adipiscing suspendisse. Sollicitudin risus quam dis mus praesent convallis sem purus.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "big",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/8/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Lega del Filo d'Oro. Un hub centrale per tutte le esigenze della Fondazione.",
+    "abstract": "Eleifend sapien consequat nec leo ac.",
+    "description": "<p>Dolor sapien mus arcu inceptos integer quisque. Felis placerat consequat condimentum dapibus sed eget nisi. Elit arcu placerat curae, imperdiet tincidunt curabitur.</p><p>Suscipit malesuada molestie auctor vulputate natoque rhoncus nascetur. Aliquet dapibus elit per mauris pellentesque. Luctus sapien placerat ac parturient ipsum convallis phasellus.</p><p>Lacinia mi at augue mi et conubia urna fringilla. Conubia dis eu interdum maximus dis.</p>",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/9/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "S1 - E13 People care is the new digital: con Barbara Orsi.",
+    "abstract": "Congue ac facilisi ullamcorper tellus.",
+    "description": "<p>Nisl torquent fermentum senectus rhoncus aliquet pulvinar faucibus. Ac varius bibendum nisl arcu auctor varius ut. Viverra nostra taciti aliquet vehicula malesuada.</p><p>Molestie donec porttitor integer platea aenean, rutrum pharetra bibendum. Curabitur vestibulum augue facilisi cursus vestibulum taciti nisi. Sed consequat adipiscing erat sit sagittis maecenas tristique.</p><p>Ullamcorper consequat dis nec mus nisi. Quisque donec vivamus consequat eget etiam.</p>",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/1/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "“Occuparsi di CRO significa lavorare sulla crescita dell’azienda, aumentare i suoi tassi di conversione e dunque i margini.”",
+    "author": {
+      "firstName": "Rosario",
+      "lastName": "Toscano",
+      "fullName": "Rosario Toscano",
+      "role": {
+        "title": "CRO Specialist"
+      },
+      "company": {
+        "title": "MOCA",
+        "colorData": {
+          "title": "Rosso",
+          "className": "red"
+        }
+      }
+    },
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Viola",
+      "className": "purple"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/2/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/3/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/4/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Aumentare le vendite eCommerce",
+    "abstract": "Curabitur suscipit porta ipsum sem ornare. Integer sagittis eros ullamcorper pharetra faucibus cubilia.",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Rosso",
+      "className": "red"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/5/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "I quattro pilastri di una strategia di marketing semplice ed efficace.",
+    "abstract": "Quis in lacus neque himenaeos vehicula. Nulla parturient iaculis bibendum feugiat id.",
+    "description": "<p>Placerat porta auctor montes natoque mollis natoque. Ad sagittis vestibulum justo dis vitae auctor consectetur viverra.</p><p>Erat eu ridiculus, consequat neque maecenas molestie inceptos non. Aliquet praesent nullam natoque sapien justo. Vehicula eleifend tempus vel dapibus per lacus.</p><p>Neque laoreet tempor arcu malesuada dui viverra id. Eros ultricies proin morbi litora quam platea vulputate risus.</p>",
+    "type": {
+      "id": "webinar",
+      "title": "Webinar"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "big",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/6/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "S1 - E17 CRO per CEO e Manager: con Rosario Toscano.",
+    "abstract": "Cubilia condimentum penatibus viverra augue iaculis finibus.",
+    "description": "<p>Libero pretium nam, tristique non vivamus mattis ex habitant. Nascetur ultricies ad iaculis tortor curabitur morbi nunc.</p><p>Lobortis taciti porta leo condimentum phasellus. Imperdiet euismod velit ridiculus, dictum ac facilisis nascetur velit. Ridiculus vel adipiscing ex ultrices molestie proin suspendisse.</p><p>Commodo dapibus ridiculus, porta felis suspendisse nulla arcu rutrum. Aliquam lacus lacinia cubilia donec parturient diam. Ipsum iaculis lacinia litora condimentum placerat pharetra rhoncus sagittis.</p>",
+    "type": {
+      "id": "podcast",
+      "title": "Podcast"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/7/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "S1 - E18 Influencer Marketing: per chi, come e perché?",
+    "abstract": "Non convallis curae vitae sodales ultrices aptent.",
+    "description": "<p>Massa euismod nisi inceptos auctor ad. Libero mauris phasellus facilisis hendrerit penatibus. Felis augue curabitur habitasse, massa placerat facilisi.</p><p>Quisque nec quisque, quis nascetur pellentesque iaculis auctor tristique. Fusce eget mus, felis elementum leo porta sem.</p><p>Molestie volutpat laoreet venenatis non nostra magna augue. Ut morbi class consequat suscipit hac arcu nullam cubilia. Facilisi augue id hac curae finibus etiam.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/8/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Progetti web internazionali e i primi 5 passi dentro la SEO internazionale.",
+    "abstract": "Ultrices scelerisque iaculis blandit platea varius. Tempor nibh facilisi elit est.",
+    "description": "<p>Platea pellentesque urna aliquam himenaeos varius. In semper ridiculus consectetur quisque eros eu.</p><p>Cursus sit accumsan montes duis turpis mauris facilisis. Auctor a nisi justo quam tortor.</p><p>Viverra tincidunt praesent, morbi auctor non consequat augue morbi. Luctus adipiscing donec pretium neque dignissim habitant aliquet maximus. Gravida pulvinar varius vulputate ridiculus, dictum phasellus elementum.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/9/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "LIU JO Living. Nuovo posizionamento per generare più interesse nei clienti.",
+    "abstract": "Tellus suspendisse fringilla lacus est.",
+    "description": "<p>Felis varius mollis donec eros ultrices phasellus. Nascetur ridiculus efficitur malesuada fames dis aliquam hendrerit felis.</p><p>Nisl taciti hendrerit arcu varius id. Rhoncus eros vehicula sapien fringilla sapien phasellus nascetur.</p><p>Condimentum montes integer luctus consequat convallis maecenas laoreet. Dignissim taciti vulputate condimentum maecenas suspendisse laoreet netus maecenas. Maecenas eu penatibus massa vivamus lacus ad mattis ante.</p>",
+    "type": {
+      "id": "webinar",
+      "title": "Webinar"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/10/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Il metaverso: il trend 2022 del digital marketing.",
+    "abstract": "Adipiscing ultrices condimentum mus.",
+    "description": "<p>Velit parturient et commodo nostra dignissim. Habitasse sit leo turpis gravida quisque pulvinar a laoreet. Tincidunt enim ac ridiculus interdum vitae sapien maecenas amet.</p><p>Ornare sollicitudin praesent semper scelerisque gravida quisque erat interdum. Interdum lorem fames velit nisl a blandit montes. Arcu pharetra leo, elit ad malesuada varius class torquent.</p><p>Netus eget morbi elit potenti montes felis habitasse ligula. Dictum elementum tincidunt condimentum suspendisse, eleifend etiam et lacinia.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/11/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Quali sono i nuovi modelli di business per aumentare le vendite online.",
+    "abstract": "Sed gravida elementum neque lorem.",
+    "description": "<p>Ac libero volutpat, praesent porttitor lacus ullamcorper vel. Consequat varius at, cras mattis tempus luctus. Donec pulvinar natoque libero dictum cubilia fusce.</p><p>Cursus leo nam rutrum taciti viverra suscipit neque maecenas. Mollis iaculis tempus mi rhoncus conubia odio ipsum sociosqu. Hendrerit morbi porta eu lobortis quam aptent?</p><p>Sit class litora mus purus malesuada tempor maecenas. Mollis venenatis nunc gravida, consequat curae felis adipiscing suspendisse. Sollicitudin risus quam dis mus praesent convallis sem purus.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "big",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/12/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Vendere sui marketplace",
+    "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Pervinca",
+      "className": "blue-violet"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Lega del Filo d'Oro. Un hub centrale per tutte le esigenze della Fondazione.",
+    "abstract": "Eleifend sapien consequat nec leo ac.",
+    "description": "<p>Dolor sapien mus arcu inceptos integer quisque. Felis placerat consequat condimentum dapibus sed eget nisi. Elit arcu placerat curae, imperdiet tincidunt curabitur.</p><p>Suscipit malesuada molestie auctor vulputate natoque rhoncus nascetur. Aliquet dapibus elit per mauris pellentesque. Luctus sapien placerat ac parturient ipsum convallis phasellus.</p><p>Lacinia mi at augue mi et conubia urna fringilla. Conubia dis eu interdum maximus dis.</p>",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/13/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "S1 - E13 People care is the new digital: con Barbara Orsi.",
+    "abstract": "Congue ac facilisi ullamcorper tellus.",
+    "description": "<p>Nisl torquent fermentum senectus rhoncus aliquet pulvinar faucibus. Ac varius bibendum nisl arcu auctor varius ut. Viverra nostra taciti aliquet vehicula malesuada.</p><p>Molestie donec porttitor integer platea aenean, rutrum pharetra bibendum. Curabitur vestibulum augue facilisi cursus vestibulum taciti nisi. Sed consequat adipiscing erat sit sagittis maecenas tristique.</p><p>Ullamcorper consequat dis nec mus nisi. Quisque donec vivamus consequat eget etiam.</p>",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/14/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "“Occuparsi di CRO significa lavorare sulla crescita dell’azienda, aumentare i suoi tassi di conversione e dunque i margini.”",
+    "author": {
+      "firstName": "Rosario",
+      "lastName": "Toscano",
+      "fullName": "Rosario Toscano",
+      "role": {
+        "title": "CRO Specialist"
+      },
+      "company": {
+        "title": "MOCA",
+        "colorData": {
+          "title": "Rosso",
+          "className": "red"
+        }
+      }
+    },
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Rosso",
+      "className": "red"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/15/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/16/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_branding",
+        "title": "Branding"
+      },
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/17/1920/900",
+      "alt": "lorem"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Aumentare le vendite eCommerce",
+    "abstract": "Curabitur suscipit porta ipsum sem ornare. Integer sagittis eros ullamcorper pharetra faucibus cubilia.",
+    "type": {
+      "id": "progetto",
+      "title": "Progetto"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "editorial",
+    "colorData": {
+      "title": "Rosso",
+      "className": "red"
+    }
+  },
+  {
+    "category": "cultura_index",
+    "template": "cultura_detail",
+    "title": "Dermon. Un nuovo linguaggio di comunicazione digitale e la creazione di una community.",
+    "abstract": "Torquent sollicitudin cursus erat. Fermentum euismod pellentesque cras.",
+    "description": "<p>Aliquam auctor ac, scelerisque ante malesuada vulputate morbi. Mauris nascetur conubia cursus luctus ornare sociosqu lectus. Sed fermentum vestibulum aliquam orci adipiscing.</p><p>Hac adipiscing euismod integer pharetra nostra ac platea. At magnis curabitur rhoncus fringilla vitae ligula. Vitae semper consequat, ultricies morbi montes sollicitudin elit torquent?</p><p>Nec penatibus ex nunc imperdiet elementum auctor. Natoque etiam mus fusce et odio nullam. Vivamus malesuada ultricies etiam justo velit.</p>",
+    "type": {
+      "id": "article",
+      "title": "Article"
+    },
+    "tag": [
+      {
+        "id": "product_category_demand_generation",
+        "title": "Demand Generation"
+      }
+    ],
+    "layout": "default",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/18/1920/900",
+      "alt": "lorem"
+    }
+  }
+]

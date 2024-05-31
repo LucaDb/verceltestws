@@ -1,0 +1,13 @@
+[
+  {
+    "category": "inverstor-relations_index",
+    "template": "inverstor_relations_detail",
+    "title": "Praesent nulla habitant",
+    "abstract": "Sociosqu lobortis laoreet maecenas. Fermentum metus class tincidunt.",
+    "description": "<p>Feugiat nostra mus habitant ante cras penatibus. Dictum auctor pulvinar, sagittis eleifend sit mi urna suspendisse. Tempus dis torquent tellus nec amet potenti.</p><p>Senectus praesent nisi habitant, condimentum augue mi sagittis. Cursus diam nec, quisque elementum curae ipsum. Taciti consectetur egestas non porttitor arcu hac.</p><p>Eros dui odio aptent sagittis accumsan eros conubia. Porttitor in blandit vivamus conubia dignissim placerat.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://placehold.jp/345199/3a63be/960x540.png?text=placehold%20960x540"
+    }
+  }
+]

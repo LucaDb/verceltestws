@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Aiutaci a migliorare, la tua opinione è importante",
+    "description": "<p><span>Lascia una recensione lorem ipsum dolor sit amet, consectetur adipiscing.</span></p>",
+    "colorData": {
+      "title": "Ciano",
+      "className": "cyan"
+    },
+    "navs": [
+      {
+        "type": "link",
+        "title": "Vedi nella mappa",
+        "href": "https://www.google.com/maps/place/Websolute+spa/@43.9026741,12.8117842,17z/data=!4m22!1m13!4m12!1m4!2m2!1d13.2360794!2d43.5229521!4e1!1m6!1m2!1s0x132d1c02c593e2d9:0x2aa0224e59039d8c!2swebsolute+pesaro+mappa!2m2!1d12.8143591!2d43.9026703!3m7!1s0x132d1c02c593e2d9:0x2aa0224e59039d8c!8m2!3d43.9026703!4d12.8143591!9m1!1b1!16s%2Fg%2F1v90f07n?entry=ttu",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "title": "Hai bisogno di supporto su Google Analytics?",
+    "description": "<p><span>Scopri come possiamo aiutarti su questo e altri servizi.</span></p>",
+    "colorData": {
+      "title": "Ciano",
+      "className": "cyan"
+    },
+    "navs": [
+      {
+        "type": "page",
+        "page": {
+          "value": 5,
+          "relationTo": "product_detail"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pensi che questo articolo sia interessante?",
+    "description": "<p><span>Iscriviti alla nostra newsletter. Promesso, non più di 2 email al mese.</span></p>",
+    "colorData": {
+      "title": "Ciano",
+      "className": "cyan"
+    },
+    "navs": [
+      {
+        "type": "page",
+        "page": {
+          "value": 1,
+          "relationTo": "contact"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hai bisogno di supporto per la tua strategia SEO?",
+    "description": "<p><span>Scopri come possiamo aiutarti su questo e altri servizi.</span></p>",
+    "colorData": {
+      "title": "rosso",
+      "className": "red"
+    },
+    "navs": [
+      {
+        "type": "page",
+        "page": {
+          "value": 5,
+          "relationTo": "product_detail"
+        }
+      }
+    ]
+  }
+]

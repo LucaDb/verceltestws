@@ -1,0 +1,50 @@
+[
+  {
+    "category": "inverstor_relations_index",
+    "template": "inverstor_relations_index",
+    "isDefault": true,
+    "title": "Vulputate himenaeos sociosqu",
+    "colorScheme": "light",
+    "components": [
+      {
+        "schema": "numbers",
+        "updated_at" : "Dati consolidati al 30/06/2022",
+        "items": [
+          {
+            "number": "1,83",
+            "unit": "million",
+            "description": "Posizione finanziaria netta"
+          },{
+            "number": "11,2",
+            "unit": "million",
+            "description": "Valore della produzione"
+          },{
+            "number": "0,9",
+            "unit": "million",
+            "description": "EBITDA"
+          },{
+            "number": "-0,21",
+            "unit": "million",
+            "description": "Risultato netto"
+          },{
+            "number": "1,83",
+            "unit": "million",
+            "description": "Utile netto"
+          },{
+            "number": "0.5",
+            "unit": "million",
+            "description": "Valore della produzione"
+          },{
+            "number": "12,2",
+            "unit": "million",
+            "description": "Risultato netto"
+          },{
+            "number": "1,22",
+            "unit": "million",
+            "description": "Lorem ipsum dolir sit amet"
+          }
+        ]
+      }
+    ]
+  }
+]

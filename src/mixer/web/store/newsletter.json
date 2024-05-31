@@ -1,0 +1,13 @@
+[
+  {
+    "category": "newsletter",
+    "template": "newsletter",
+    "isDefault": true,
+    "title": "Newsletter",
+    "abstract": "Ciao, lasciaci i tuoi contatti per ricevere la nostra newsletter periodica e scoprire tutti i nostri servizi.",
+    "media": {
+      "type": "image",
+      "src": "https://picsum.photos/id/51/1920/900"
+    }
+  }
+]

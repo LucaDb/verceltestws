@@ -1,0 +1,748 @@
+[
+  {
+    "id": 1,
+    "category": "homepage",
+    "template": "homepage",
+    "isDefault": true,
+    "slug": "",
+    "title": "Mixer",
+    "abstract": "Next generation stack by Websolute",
+    "opening": {
+      "active": false,
+      "media": {
+        "src": "/assets/animations/adv-storytelling.json",
+        "type": "json"
+      }
+    },
+    "components": [
+      {
+        "schema": "cover-main",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": false,
+        "title": "Digital roadmaps for ambitious brands."
+      },
+      {
+        "schema": "text-big",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": false,
+        "description": "Diamo forma a <a href='#' title='strategie digitali'>strategie digitali</a> che valorizzino l’immagine dei nostri clienti attraverso attività di <a href='/branding' title='branding'>branding</a>, che generino lead e conversioni attraverso operazioni di <a href='/demand-generation' title='demand generation'>demand generation</a>, che vendano grazie allo sviluppo di omnichannel <a href='#'>commerce</a> e che siano progettati con le migliori <a href='/tecnologie'>tecnologie</a>."
+      },
+      {
+        "anchor": {
+          "hash": "progetti-selezionati",
+          "title": "Progetti selezionati"
+        },
+        "schema": "project-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "PROGETTI SELEZIONATI",
+        "quantity": 9,
+        "navs": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "project_index",
+              "value": 1
+            }
+          }
+        ]
+      },
+      {
+        "anchor": {
+          "hash": "le-industrie",
+          "title": "Le industrie"
+        },
+        "schema": "industry-more",
+        "colorScheme": "light",
+        "topSpace": false,
+        "innerSpace": true,
+        "title": "LE INDUSTRIES PER CUI LAVORIAMO",
+        "quantity": 5,
+        "navs": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "industry_index",
+              "value": 1
+            }
+          }
+        ]
+      },
+      {
+        "schema": "spotlight-slider",
+        "colorScheme": "light",
+        "topSpace": true,
+        "innerSpace": true,
+        "eyelet": "CHI SIAMO",
+        "abstract": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "startingIndex": 3,
+        "companies": [
+          {
+            "id": "660428b38dcac5028bb21afa",
+            "title": "shinteck",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EMobile Development\u003C/span\u003E\u003C/p\u003E",
+            "navs": [
+              {
+                "type": "link",
+                "title": "shinteck",
+                "href": "https://www.xplacecompany.com/",
+                "target": "_blank",
+                "items": [],
+                "id": "66042899c556fea5e9e5d0b8",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T14:09:55.967Z",
+            "updatedAt": "2024-04-19T16:43:06.028Z",
+            "order": 25,
+            "colorData": {
+              "id": "661e58e8f72e8b5267457d35",
+              "title": "Giallo",
+              "createdAt": "2024-04-16T10:54:32.541Z",
+              "updatedAt": "2024-04-19T06:56:46.852Z",
+              "className": "yellow"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "6604086327a557dda39e5777",
+            "title": "more",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EVirtual & Augmented Reality\u003C/span\u003E\u003C/p\u003E",
+            "order": 60,
+            "navs": [
+              {
+                "type": "link",
+                "title": "more",
+                "href": "https://www.more.mr/it/",
+                "target": "_blank",
+                "items": [],
+                "id": "66040859488741fa6d04f76f",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:52:03.816Z",
+            "updatedAt": "2024-04-19T16:44:03.190Z",
+            "colorData": {
+              "id": "661e5992f72e8b5267457d80",
+              "title": "Pervinca",
+              "createdAt": "2024-04-16T10:57:22.648Z",
+              "updatedAt": "2024-04-19T06:55:59.384Z",
+              "className": "blue-violet"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "6604081627a557dda39e5746",
+            "title": "w.academy",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EDigital Business School\u003C/span\u003E\u003C/p\u003E",
+            "navs": [
+              {
+                "type": "link",
+                "title": "w.academy",
+                "href": "https://w.academy",
+                "target": "_blank",
+                "items": [],
+                "id": "66040802488741fa6d04f76e",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:50:46.921Z",
+            "updatedAt": "2024-04-26T09:11:11.312Z",
+            "order": 26,
+            "colorData": {
+              "id": "661e5910f72e8b5267457d4b",
+              "title": "Arancio",
+              "createdAt": "2024-04-16T10:55:12.734Z",
+              "updatedAt": "2024-04-19T06:56:37.644Z",
+              "className": "orange"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "6603fb33794e36dedcef2ed7",
+            "title": "websolute",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EDigital Strategy | Branding | Demand\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EGeneration | Commerce | Technology\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "65e9ebbd569d22ca960c5143",
+              "alt": "websolute-logo",
+              "filename": "websolute-logo.svg",
+              "mimeType": "image/svg+xml",
+              "filesize": 6186,
+              "width": 181,
+              "height": 31,
+              "sizes": {
+                "card": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                },
+                "feature": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                }
+              },
+              "createdAt": "2024-03-07T16:30:53.870Z",
+              "updatedAt": "2024-03-07T16:30:53.870Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/websolute-logo.svg"
+            },
+            "order": 10,
+            "navs": [
+              {
+                "type": "page",
+                "page": {
+                  "value": {
+                    "id": "65e9a6acf569b01a5dbef1a2",
+                    "title": "About",
+                    "slug": "about",
+                    "isDefault": true,
+                    "useSplat": false,
+                    "category": "about",
+                    "template": "about",
+                    "abstract": "\u003Cp\u003E\u003Cspan\u003EPer consequat aliquet vel quam. Sagittis odio posuere sociosqu sollicitudin.\u003C/span\u003E\u003C/p\u003E",
+                    "description": "\u003Cp\u003E\u003Cspan\u003ESit eu magnis metus per ornare turpis. Pellentesque velit euismod, class litora quisque vehicula class feugiat. Libero porttitor montes ultrices orci gravida vivamus.\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003ELectus maecenas quis nec elit vel. Ipsum penatibus facilisi ultricies risus fames cubilia erat.\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EPlacerat nec rhoncus porta facilisi lorem bibendum vehicula. Semper velit faucibus justo dolor potenti. Taciti eleifend hendrerit eget nullam nisi laoreet egestas.\n\n\u003C/span\u003E\u003C/p\u003E",
+                    "media": "65e9aa3e1eb92d3170bca1cb",
+                    "components": [
+                      {
+                        "title": "About",
+                        "titleSize": "lg",
+                        "layout": null,
+                        "description": "\u003Cp\u003E\u003Cspan\u003ESiamo un gruppo di \u003C/span\u003E\n\u003Ca href=\"#\"\u003E\u003Cspan\u003Eagenzie digitali specializzate\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, organizzate intorno agli obiettivi dei nostri clienti. Attraverso il \u003C/span\u003E\n\u003Ca href=\"#\"\u003E\u003Cspan\u003Enostro metodo\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, disegniamo e realizziamo \u003C/span\u003E\n\u003Ca href=\"#\"\u003E\u003Cspan\u003Epercorsi digitali \u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003Eper accompagnare i brand ad esprimere tutto il loro potenziale sul mercato globale, \u003C/span\u003E\n\u003Ca href=\"#\"\u003E\u003Cspan\u003Eprendendocis cura \u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003Edi ogni piccolo dettaglio. Amiamo lavorare per \u003C/span\u003E\n\u003Ca href=\"#\"\u003E\u003Cspan\u003Ei clienti e per le persone \u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003Ein cui crediamo.\u003C/span\u003E\u003C/p\u003E",
+                        "archived": false,
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "65e9a5041ea01c13e5d7d78c",
+                        "blockName": "About",
+                        "blockType": "intro-1",
+                        "abstract": ""
+                      },
+                      {
+                        "layout": "horizontal",
+                        "media": "662b669f54d6dc357f24cd2e",
+                        "items": [],
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "wrapper": false,
+                        "id": "65f8c32ded7a1e991099e752",
+                        "blockType": "media-box-1"
+                      },
+                      {
+                        "title": "Small enough to care Big enough to serve",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003EPiccoli abbastanza da mantenere un approccio sartoriale e su misura sul cliente, grandi abbastanza da poter offrire un’orchestra di agenzie altamente specializzate e dalle competenze verticali. Come lo rendiamo possibile?\u003C/span\u003E\u003C/p\u003E",
+                        "anchor": {
+                          "title": "Small enough, big to serve",
+                          "hash": "small-enough-big-to-serve"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "65f8c367ed7a1e991099e753",
+                        "blockName": "Small enough to care Big enough to serve",
+                        "blockType": "title-box-1",
+                        "description": ""
+                      },
+                      {
+                        "title": "Il metodo.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/p\u003E",
+                        "items": [
+                          {
+                            "eyelet": "DOVE SIAMO.",
+                            "title": "Ascoltare",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "6622747686bb354f96bb2a5e",
+                            "id": "660160730d0f5d5ad5734340"
+                          },
+                          {
+                            "eyelet": "DOVE SIAMO.",
+                            "title": "Interpretare",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "6622749286bb354f96bb2a70",
+                            "id": "660160ca0d0f5d5ad5734341"
+                          },
+                          {
+                            "eyelet": "DOVE SIAMO.",
+                            "title": "Fare",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "662274a986bb354f96bb2a82",
+                            "id": "660160da0d0f5d5ad5734343"
+                          },
+                          {
+                            "eyelet": "DOVE SIAMO.",
+                            "title": "Misurare",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "662b69a254d6dc357f24cf17",
+                            "id": "660160e80d0f5d5ad5734345"
+                          }
+                        ],
+                        "anchor": {
+                          "title": "Il metodo",
+                          "hash": "il-metodo"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "66015ff70d0f5d5ad573433f",
+                        "blockName": "Il metodo",
+                        "blockType": "text-combo-slider-1",
+                        "description": ""
+                      },
+                      {
+                        "eyelet": "IL PROCESSO.",
+                        "title": "Dalla strategia digitale all’esecuzione in tutti i touchpoint.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/p\u003E",
+                        "items": [
+                          {
+                            "eyelet": "",
+                            "title": "Consulenza strategica",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003ECosa può fare il digitale per il nostro business?\nCome competere nell’era digitale?\nCome valorizzare il brand, trovare clienti, generare business?\nCome impatta tutto questo con i processi interni ed esterni all’azienda?\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "662b6df354d6dc357f24d47f",
+                            "id": "660160730d0f5d5ad5734340"
+                          },
+                          {
+                            "eyelet": "",
+                            "title": "Project management",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003EAnalisi tecnica e organizzativa, pianificazione delle attività, creazione dei team di lavoro, supervisione costante ai processi esecutivi per rispetto budget e tempi.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "662b6dd754d6dc357f24d476",
+                            "id": "660160ca0d0f5d5ad5734341"
+                          },
+                          {
+                            "eyelet": "",
+                            "title": "Execution & gestione",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003EExecution interna al gruppo: team tecnologici, team marketing, team brand, team e-commerce.\n\nCi affidiamo a partner esterni per attività specializzate e complementari.\u003C/span\u003E\u003C/p\u003E",
+                            "description": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "media": "662b6d5454d6dc357f24d3ee",
+                            "id": "660160da0d0f5d5ad5734343"
+                          }
+                        ],
+                        "anchor": {
+                          "title": "Il metodo",
+                          "hash": "il-metodo"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "662b6a4576530f17b8d90a63",
+                        "blockName": "Il processo",
+                        "blockType": "text-combo-slider-1",
+                        "description": ""
+                      },
+                      {
+                        "title": "Il gruppo.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003EOffriamo competenze verticali in Strategia Digitale, Brand, Marketing, Commerce, Tecnologia e Formazione.\u003C/span\u003E\u003C/p\u003E",
+                        "companies": [
+                          "6603fb33794e36dedcef2ed7",
+                          "6604073227a557dda39e56c3",
+                          "660428b38dcac5028bb21afa",
+                          "6604081627a557dda39e5746",
+                          "6604078b27a557dda39e5705",
+                          "660407e327a557dda39e572b",
+                          "6604086327a557dda39e5777"
+                        ],
+                        "navs": [],
+                        "anchor": {
+                          "title": "Il gruppo",
+                          "hash": "il-gruppo"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "65f8c3b4ed7a1e991099e754",
+                        "blockName": "Il gruppo",
+                        "blockType": "spotlight-1",
+                        "description": ""
+                      },
+                      {
+                        "title": "In numeri.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.\u003C/span\u003E\u003C/p\u003E",
+                        "description": "\u003Cp\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/p\u003E",
+                        "items": [
+                          {
+                            "counter": 10,
+                            "title": "Sedi",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "id": "65f8c424ed7a1e991099e756",
+                            "description": ""
+                          },
+                          {
+                            "counter": 150,
+                            "title": "Professionisti",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "id": "65f8c43fed7a1e991099e757",
+                            "description": ""
+                          },
+                          {
+                            "counter": 250,
+                            "title": "Clienti",
+                            "abstract": "\u003Cp\u003E\u003Cspan\u003EDescription Dolor Sit Amet Lorem\u003C/span\u003E\u003C/p\u003E",
+                            "id": "65f8c452ed7a1e991099e758",
+                            "description": ""
+                          }
+                        ],
+                        "colorScheme": "dark",
+                        "topSpace": true,
+                        "innerSpace": true,
+                        "id": "65f8c3fded7a1e991099e755",
+                        "blockName": "I numeri",
+                        "blockType": "text-columns-1"
+                      },
+                      {
+                        "title": "I nostri clienti.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003ECon la nostra offerta abbiamo costruito partnership durature con i brand più ambiziosi. Amiamo lavorare per i clienti e per le persone in cui crediamo.\u003C/span\u003E\u003C/p\u003E",
+                        "clients": [
+                          "66042bb98dcac5028bb21bdb",
+                          "66042c268dcac5028bb21c4d",
+                          "66042c8b8dcac5028bb21cac",
+                          "66042cf38dcac5028bb21d11",
+                          "66042d498dcac5028bb21d76",
+                          "66042e0f8dcac5028bb21e0b"
+                        ],
+                        "navs": [
+                          {
+                            "type": "page",
+                            "page": {
+                              "value": "65e9d45504a8f85e6b3840af",
+                              "relationTo": "project_index"
+                            },
+                            "target": "_blank",
+                            "customTitle": "Scopri tutti i clienti",
+                            "items": [],
+                            "id": "66042f2ac556fea5e9e5d0bf",
+                            "blockName": "Scopri tutti i clienti",
+                            "blockType": "Level 0",
+                            "abstract": ""
+                          },
+                          {
+                            "type": "page",
+                            "page": {
+                              "value": "65e9d45504a8f85e6b3840af",
+                              "relationTo": "project_index"
+                            },
+                            "target": "_blank",
+                            "customTitle": "Storie di successo",
+                            "items": [],
+                            "id": "66042f49c556fea5e9e5d0c0",
+                            "blockName": "Storie di successo",
+                            "blockType": "Level 0",
+                            "abstract": ""
+                          }
+                        ],
+                        "colorScheme": "dark",
+                        "topSpace": false,
+                        "innerSpace": true,
+                        "id": "65f8c472ed7a1e991099e759",
+                        "blockName": "I nostri clienti",
+                        "blockType": "highlights-1",
+                        "description": ""
+                      },
+                      {
+                        "eyelet": "IN BORSA.",
+                        "title": "La quotazione.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003EPuntiamo ad acquisire società italiane di piccole e medie dimensioni, trasversali al nostro core business, che possano garantire un aumento del valore aggiunto che offriamo ai nostri clienti.\u003C/span\u003E\u003C/p\u003E",
+                        "media": "662b7e7854d6dc357f24dfaf",
+                        "mediaSmall": [
+                          {
+                            "media": "662b7a7454d6dc357f24de2b",
+                            "id": "66014d1cab0a941e9ba837fd"
+                          },
+                          {
+                            "media": "662b7fc154d6dc357f24e0d3",
+                            "id": "66014d33ab0a941e9ba837fe"
+                          }
+                        ],
+                        "navs": [
+                          {
+                            "type": "link",
+                            "title": "Vai a investors relations",
+                            "href": "/investors-relations",
+                            "target": "_self",
+                            "items": [],
+                            "id": "66014d60ab0a941e9ba837ff",
+                            "blockType": "Level 0",
+                            "abstract": ""
+                          }
+                        ],
+                        "anchor": {
+                          "title": "Quotazione",
+                          "hash": "quotazione"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "dots": false,
+                        "swap": true,
+                        "mediaRadius": true,
+                        "id": "65f8c499ed7a1e991099e75a",
+                        "blockName": "La quotazione",
+                        "blockType": "text-combo-1",
+                        "description": ""
+                      },
+                      {
+                        "eyelet": "DOVE SIAMO.",
+                        "title": "Le Sedi.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003EIl cuore della nostra web agency è qui, l'anima ovunque si parli di digitale. Le sedi Websolute sono distribuite in 10 città tra cui: \u003C/span\u003E\n\u003Ca href=\"/sedi/pesaro\"\u003E\u003Cspan\u003EPesaro,\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E \u003C/span\u003E\n\u003Ca href=\"/sedi/milano\"\u003E\u003Cspan\u003EMilano,\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E \u003C/span\u003E\n\u003Ca href=\"/sedi/milano\"\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E\u003C/span\u003E\n\u003Ca href=\"/sedi/roma\"\u003E\u003Cspan\u003ERoma\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/treviso\"\u003E\u003Cspan\u003ETreviso\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/pisa\"\u003E\u003Cspan\u003EPisa\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/ancona\"\u003E\u003Cspan\u003EAncona\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/salerno\"\u003E\u003Cspan\u003ESalerno\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/padova\"\u003E\u003Cspan\u003EPadova\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/ascoli-piceno\"\u003E\u003Cspan\u003EAscoli Piceno\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E, \u003C/span\u003E\n\u003Ca href=\"/sedi/shangai\"\u003E\u003Cspan\u003EShangai\u003C/span\u003E\u003C/a\u003E\n\u003Cspan\u003E. Insieme, lavorano per risolvere sfide diverse nel panorama digitale ma agendo con gli stessi metodi e cultura.\u003C/span\u003E\u003C/p\u003E",
+                        "media": "662b802154d6dc357f24e0f6",
+                        "mediaSmall": [],
+                        "navs": [],
+                        "anchor": {
+                          "title": "Dove siamo",
+                          "hash": "dove-siamo"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "dots": false,
+                        "swap": false,
+                        "mediaRadius": false,
+                        "id": "65f8c524ed7a1e991099e75b",
+                        "blockName": "Le Sedi",
+                        "blockType": "text-combo-1",
+                        "description": ""
+                      },
+                      {
+                        "eyelet": "CULTURA AZIENDALE.",
+                        "title": "La nostra cultura.",
+                        "abstract": "\u003Cp\u003E\u003Cspan\u003EVorremmo che lavorare in Websolute sia il mix perfetto di ciò che amiamo fare, con le persone con cui ci piace lavorare.\u003C/span\u003E\u003C/p\u003E",
+                        "items": [
+                          {
+                            "media": "662b848154d6dc357f24e3c5",
+                            "id": "6602e145f7b415d592c16270"
+                          },
+                          {
+                            "media": "662b850054d6dc357f24e3f5",
+                            "id": "6602e175f7b415d592c16271"
+                          },
+                          {
+                            "media": "6602e1b477dbd945c7793b27",
+                            "id": "6602e199f7b415d592c16272"
+                          },
+                          {
+                            "media": "6602e1d277dbd945c7793b31",
+                            "id": "6602e1b5f7b415d592c16273"
+                          },
+                          {
+                            "media": "6602e1f377dbd945c7793b3b",
+                            "id": "6602e1d8f7b415d592c16274"
+                          },
+                          {
+                            "media": "6602e21377dbd945c7793b45",
+                            "id": "6602e1f5f7b415d592c16275"
+                          },
+                          {
+                            "media": "6602e5835b382446a6bfde43",
+                            "id": "6602e554f7b415d592c16278"
+                          },
+                          {
+                            "media": "6602e5a15b382446a6bfde4c",
+                            "id": "6602e585f7b415d592c16279"
+                          },
+                          {
+                            "media": "6602e5c05b382446a6bfde55",
+                            "id": "6602e5a3f7b415d592c1627a"
+                          },
+                          {
+                            "media": "6602e5ef5b382446a6bfde5e",
+                            "id": "6602e5d4f7b415d592c1627b"
+                          },
+                          {
+                            "media": "6602e60c5b382446a6bfde67",
+                            "id": "6602e9138e03ec496096057e"
+                          },
+                          {
+                            "media": "6602e6295b382446a6bfde70",
+                            "id": "6602e9188e03ec496096057f"
+                          }
+                        ],
+                        "navs": [
+                          {
+                            "type": "link",
+                            "title": "Scopri di più",
+                            "href": "/progetti",
+                            "target": "_self",
+                            "items": [],
+                            "id": "6602e226f7b415d592c16276",
+                            "blockType": "Level 0",
+                            "abstract": ""
+                          }
+                        ],
+                        "anchor": {
+                          "title": "La nostra cultura",
+                          "hash": "cultura-aziendale"
+                        },
+                        "colorScheme": "light",
+                        "topSpace": true,
+                        "innerSpace": false,
+                        "id": "6602e11df7b415d592c1626f",
+                        "blockName": "La nostra cultura",
+                        "blockType": "circular-slider",
+                        "description": ""
+                      }
+                    ],
+                    "_status": "published",
+                    "createdAt": "2024-03-07T11:36:12.487Z",
+                    "updatedAt": "2024-04-26T10:42:10.284Z",
+                    "meta": {
+                      "title": "About",
+                      "description": "Per consequat aliquet vel quam. Sagittis odio posuere sociosqu sollicitudin"
+                    },
+                    "markets": [
+                      "ww"
+                    ],
+                    "schema": "about",
+                    "href": "/it/about"
+                  },
+                  "relationTo": "about"
+                },
+                "target": "_blank",
+                "items": [],
+                "id": "6603fb07eb8e1e6c29a080c3",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T10:55:47.135Z",
+            "updatedAt": "2024-04-26T09:24:34.940Z",
+            "colorData": {
+              "id": "661e40af6f4abc50c0cfa93e",
+              "title": "Ciano",
+              "createdAt": "2024-04-16T09:11:11.363Z",
+              "updatedAt": "2024-04-19T06:57:04.901Z",
+              "className": "cyan"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "660407e327a557dda39e572b",
+            "title": "dna",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EVideo Storytelling\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EYoutube Editor & Adv\u003C/span\u003E\u003C/p\u003E",
+            "order": 40,
+            "navs": [
+              {
+                "type": "link",
+                "title": "dna",
+                "href": "https://dnasrl.com/",
+                "target": "_blank",
+                "items": [],
+                "id": "660407c8488741fa6d04f76d",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:49:55.258Z",
+            "updatedAt": "2024-04-26T09:23:27.476Z",
+            "colorData": {
+              "id": "661e596ff72e8b5267457d71",
+              "title": "Viola",
+              "createdAt": "2024-04-16T10:56:47.406Z",
+              "updatedAt": "2024-04-19T06:56:11.940Z",
+              "className": "purple"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "6604078b27a557dda39e5705",
+            "title": "moca",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EPerformance Marketing\u003C/span\u003E\u003C/p\u003E",
+            "media": {
+              "id": "65e9ec3c569d22ca960c5178",
+              "alt": "moca-logo",
+              "filename": "moca-logo.svg",
+              "mimeType": "image/svg+xml",
+              "filesize": 3794,
+              "width": 130,
+              "height": 31,
+              "sizes": {
+                "card": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                },
+                "feature": {
+                  "url": "https://websolute.azurewebsites.net/oven/media/undefined"
+                }
+              },
+              "createdAt": "2024-03-07T16:33:00.606Z",
+              "updatedAt": "2024-03-07T16:33:00.606Z",
+              "url": "https://websolute.azurewebsites.net/oven/media/moca-logo.svg"
+            },
+            "order": 30,
+            "navs": [
+              {
+                "type": "link",
+                "title": "moca",
+                "href": "https://mocainteractive.com/",
+                "target": "_blank",
+                "items": [],
+                "id": "66040772488741fa6d04f76c",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:48:27.353Z",
+            "updatedAt": "2024-04-18T15:13:22.753Z",
+            "colorData": {
+              "id": "661e5941f72e8b5267457d5e",
+              "title": "Rosso",
+              "createdAt": "2024-04-16T10:56:01.902Z",
+              "updatedAt": "2024-04-19T06:56:27.131Z",
+              "className": "red"
+            },
+            "schema": "company"
+          },
+          {
+            "id": "6604073227a557dda39e56c3",
+            "title": "xplace",
+            "abstract": "\u003Cp\u003E\u003Cspan\u003EGlobal Social Media\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EInfluencer Marketing\u003C/span\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cspan\u003EEngagement\u003C/span\u003E\u003C/p\u003E",
+            "order": 20,
+            "navs": [
+              {
+                "type": "link",
+                "title": "xplace",
+                "href": "https://www.xplacecompany.com/",
+                "target": "_blank",
+                "items": [],
+                "id": "66040718488741fa6d04f76b",
+                "blockType": "Level 0",
+                "abstract": ""
+              }
+            ],
+            "createdAt": "2024-03-27T11:46:58.145Z",
+            "updatedAt": "2024-04-26T09:24:05.796Z",
+            "colorData": {
+              "id": "661e58b6f72e8b5267457d22",
+              "title": "Verde",
+              "createdAt": "2024-04-16T10:53:42.804Z",
+              "updatedAt": "2024-04-19T06:56:55.428Z",
+              "className": "green"
+            },
+            "schema": "company"
+          }
+        ],
+        "navs": [
+          {
+            "type": "page",
+            "page": {
+              "relationTo": "about",
+              "value": 1
+            }
+          }
+        ]
+      },
+      {
+        "schema": "blog-more-1",
+        "colorScheme": "dark",
+        "topSpace": true,
+        "innerSpace": true,
+        "title": "Cultura",
+        "cta": true,
+        "quantity": 3
+      }
+    ]
+  }
+]

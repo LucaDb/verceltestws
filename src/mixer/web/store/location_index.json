@@ -1,0 +1,14 @@
+[
+  {
+    "category": "location_index",
+    "template": "location_index",
+    "isDefault": true,
+    "title": "Sedi",
+    "abstract": "Eget suscipit hendrerit mus placerat.",
+    "description": "<p>Adipiscing id netus, class feugiat mauris massa sagittis integer. Euismod risus duis maecenas libero orci duis nisl.</p><p>Ipsum in mi, pellentesque magna cursus vestibulum tortor. Feugiat rhoncus sodales curae lectus semper eu ornare.</p><p>Fermentum convallis praesent volutpat erat malesuada. Suscipit dui erat pretium convallis proin parturient. Elementum viverra parturient tristique habitasse accumsan ipsum massa.</p>",
+    "media": {
+      "type": "image",
+      "src": "https://placehold.jp/345199/3a63be/960x540.png?text=placehold%20960x540"
+    }
+  }
+]
